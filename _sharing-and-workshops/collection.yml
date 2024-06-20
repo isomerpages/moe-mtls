@@ -2,6 +2,7 @@ collections:
   sharing-and-workshops:
     output: true
     order:
+      - Interactive Workshops/tamil.md
       - Interactive Workshops/malay.md
       - Interactive Workshops/chinese.md
       - Interactive Workshops/.keep
