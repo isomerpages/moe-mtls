@@ -1,4 +1,5 @@
 collections:
   exhibition:
     output: true
-    order: []
+    order:
+      - EXHIBITION BOOTHS AND EXPLORER ZONE.md
