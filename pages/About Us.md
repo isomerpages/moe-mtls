@@ -226,30 +226,20 @@ description: ""
   }
 </style>
 
-<div class="entry-title">
-&nbsp; &nbsp; Jointly Organised By
-</div>
+<div class="entry-title">Jointly Organised By</div>
 
 ![Ministry of Education, Committee to Promote Chinese Language Learning, Malay Language Learning and Promotion Committee, Tamil Language Learning and Promotion Committee](/images/mtls2024-organised-by.png)
 
 <div class="entry-content">
 
-&nbsp; &nbsp; <p>
-&nbsp; &nbsp; &nbsp; &nbsp; As of this year, the Mother Tongue Languages Symposium (MTLS) is a biennial event co-organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).
-&nbsp; &nbsp; </p>
+<p>As of this year, the Mother Tongue Languages Symposium (MTLS) is a biennial event co-organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).</p>
 
-&nbsp; &nbsp; <p>
-&nbsp; &nbsp; &nbsp; &nbsp; It aims to promote our Mother Tongue Languages (MTLs) by exhibiting good practices and efforts by both schools and the community in the teaching and learning of our respective MTLs. It primarily targets MTL educators from the preschools to lower primary levels and parents with young children.
-&nbsp; &nbsp; </p>
+<p>It aims to promote our Mother Tongue Languages (MTLs) by exhibiting good practices and efforts by both schools and the community in the teaching and learning of our respective MTLs. It primarily targets MTL educators from the preschools to lower primary levels and parents with young children.</p>
 
-&nbsp; &nbsp; <p>
-&nbsp; &nbsp; &nbsp; &nbsp; The theme of this year's MTLS is “Our Mother Tongues as Living Languages”, and the symposium will be held on Saturday, 14 September 2024, at the Suntec Singapore Convention &amp; Exhibition Centre.
-&nbsp; &nbsp; </p>
+<p>The theme of this year's MTLS is “Our Mother Tongues as Living Languages”, and the symposium will be held on Saturday, 14 September 2024, at the Suntec Singapore Convention &amp; Exhibition Centre.</p>
 
 </div>
 
-<div class="entry-title">
-&nbsp; &nbsp; Supported By
-</div>
+<div class="entry-title">Supported By</div>
 
 ![Supported By](/images/mtls2024-supported-by.png)
