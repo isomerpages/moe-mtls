@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  sharing-and-workshops:
     output: true
     order:
       - folder-page.md
