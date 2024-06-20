@@ -1,8 +1,8 @@
 logo: /images/mtls2024_logo.png
 links:
+  - title: Pre-Registration
+    url: /pre-registration/
   - title: Opening ceremony
     url: /opening-ceremony/
-  - title: Example Page
-    url: /example-page/
   - title: Example Folder
     collection: example-folder
