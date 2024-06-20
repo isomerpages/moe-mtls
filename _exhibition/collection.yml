@@ -2,4 +2,5 @@ collections:
   exhibition:
     output: true
     order:
+      - PRESCHOOLS.md
       - EXHIBITION BOOTHS AND EXPLORER ZONE.md
