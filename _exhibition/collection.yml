@@ -2,5 +2,6 @@ collections:
   exhibition:
     output: true
     order:
+      - PRIMARY & SECONDARY SCHOOLS.md
       - PRESCHOOLS.md
       - EXHIBITION BOOTHS AND EXPLORER ZONE.md
