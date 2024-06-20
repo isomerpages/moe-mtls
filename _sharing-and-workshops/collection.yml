@@ -2,14 +2,14 @@ collections:
   sharing-and-workshops:
     output: true
     order:
-      - Interactive Workshops/.keep
-      - Interactive Workshops/华文.md
-      - Interactive Workshops/Bahasa Melayu.md
-      - Interactive Workshops/தமிழ்.md
-      - Interactive Workshops/English.md
       - INTRODUCTION.md
       - Sharing Sessions/.keep
       - Sharing Sessions/华文.md
       - Sharing Sessions/Bahasa Melayu.md
       - Sharing Sessions/தமிழ்.md
       - Sharing Sessions/English.md
+      - Interactive Workshops/.keep
+      - Interactive Workshops/华文.md
+      - Interactive Workshops/Bahasa Melayu.md
+      - Interactive Workshops/தமிழ்.md
+      - Interactive Workshops/English.md
