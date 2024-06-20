@@ -226,60 +226,28 @@ description: ""
   }
 </style>
 
-<div class="entry-title">
-
-&nbsp; &nbsp; EXHIBITION BOOTHS &amp; EXPLORER ZONE
-
-</div>
+<div class="entry-title">EXHIBITION BOOTHS &amp; EXPLORER ZONE</div>
 
 <div class="entry-content">
 
-&nbsp; &nbsp; <p>
+<p> This year's symposium will feature 45 physical exhibition booths from schools and community partners, each showcasing fun and interactive activities for children to engage with their Mother Tongue Languages (MTLs) while exploring the different exhibition booths.</p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; This year's symposium will feature 45 physical exhibition booths from schools and community partners, each showcasing fun and interactive activities for children to engage with their Mother Tongue Languages (MTLs) while exploring the different exhibition booths.
+<p> Furthermore, this year's Primary and Secondary schools' exhibition booths will be categorised according to three primary focus areas, offering varied learning experiences: </p>
 
-&nbsp; &nbsp; </p>
+<ol>
+<li>E-Pedagogy</li>
+<li>Game-based learning</li>
+<li>Teaching MTLs through culture</li>
+</ol>
 
-&nbsp; &nbsp; <p>
+<p>Children can anticipate participating in the MTL Quest, engaging in MTL activities at all exhibition booths to collect stamps and redeem prizes. One of the activities is the Nursery Rhymes Challenge, which promotes the use of MTLs through singing nursery rhymes.</p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; Furthermore, this year's Primary and Secondary schools' exhibition booths will be categorised according to three primary focus areas, offering varied learning experiences:
+<p>Additionally, the MOE Curriculum Booth will feature information from preschool to junior college. Visitors will gain insights into the progression of curricula and key programmes in the educational journey.</p>
 
-&nbsp; &nbsp; </p>
+<p> Exhibition boards will be uploaded to the website after the event.</p>
 
-&nbsp; &nbsp; <ol>
+<p>The “Explorer Zone” activities, formerly referred to as the “Centrepiece” activities in past years MTLS', provide children with opportunities to explore their MTLs through real-life scenarios featuring community heroes. These activities allow children to engage in real-life scenarios whilst gaining an appreciation for the dedication of our four community heroes: Sani, the fearless Firefighter, Kavin, the vigilant Lifeguard, Xiao Tao, the friendly Grocer, and Peppy, the joyful Bus Captain.</p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <li>E-Pedagogy</li>
-
-&nbsp; &nbsp; &nbsp; &nbsp; <li>Game-based learning</li>
-
-&nbsp; &nbsp; &nbsp; &nbsp; <li>Teaching MTLs through culture</li>
-
-&nbsp; &nbsp; </ol>
-
-&nbsp; &nbsp; <p>
-
-&nbsp; &nbsp; &nbsp; Children can anticipate participating in the MTL Quest, engaging in MTL activities at all exhibition booths to collect stamps and redeem prizes. One of the activities is the Nursery Rhymes Challenge, which promotes the use of MTLs through singing nursery rhymes.
-
-&nbsp; &nbsp; </p>
-
-&nbsp; &nbsp; <p>
-
-&nbsp; &nbsp; &nbsp; &nbsp;Additionally, the MOE Curriculum Booth will feature information from preschool to junior college. Visitors will gain insights into the progression of curricula and key programmes in the educational journey.
-
-&nbsp; &nbsp; </p>
-
-&nbsp; &nbsp; <p>
-
-&nbsp; &nbsp; &nbsp; &nbsp; Exhibition boards will be uploaded to the website after the event.
-
-&nbsp; &nbsp; </p>
-
-&nbsp; &nbsp; <p>
-
-&nbsp; &nbsp; &nbsp; &nbsp;The “Explorer Zone” activities, formerly referred to as the “Centrepiece” activities in past years MTLS', provide children with opportunities to explore their MTLs through real-life scenarios featuring community heroes. These activities allow children to engage in real-life scenarios whilst gaining an appreciation for the dedication of our four community heroes: Sani, the fearless Firefighter, Kavin, the vigilant Lifeguard, Xiao Tao, the friendly Grocer, and Peppy, the joyful Bus Captain.
-
-&nbsp; &nbsp; </p>
-
-</div> &nbsp;
+</div>
 
 ![Exhibition floorplan](/images/pamphlet_back.png)
