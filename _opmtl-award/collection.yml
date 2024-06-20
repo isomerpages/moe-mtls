@@ -1,0 +1,4 @@
+collections:
+  opmtl-award:
+    output: true
+    order: []
