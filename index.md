@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: Mother Tongue Languages Symposium
+description: Mother Tongue Languages Symposium 2024
+image: /images/mtls2024_logo.png
 permalink: /
 notification: ""
 sections:
