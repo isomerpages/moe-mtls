@@ -228,7 +228,7 @@ description: ""
 
 <div class="entry-title">Jointly Organised By</div>
 
-![Ministry of Education, Committee to Promote Chinese Language Learning, Malay Language Learning and Promotion Committee, Tamil Language Learning and Promotion Committee](/images/mtls2024-organised-by.png)
+![Ministry of Education, Committee to Promote Chinese Language Learning, Malay Language Learning and Promotion Committee, Tamil Language Learning and Promotion Committee](/images/mtls2024_organised_by.png)
 
 <div class="entry-content">
 
@@ -242,4 +242,4 @@ description: ""
 
 <div class="entry-title">Supported By</div>
 
-![Supported By](/images/mtls2024-supported-by.png)
+![Supported By](/images/mtls2024_supported_by.png)
