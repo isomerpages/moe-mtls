@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - INTRODUCTION.md
-      - folder-page.md
       - Sharing Sessions/.keep
       - Sharing Sessions/subfolder-page.md
