@@ -2,6 +2,7 @@ collections:
   exhibition:
     output: true
     order:
+      - COMMUNITY PARTNERS.md
       - PRIMARY & SECONDARY SCHOOLS.md
       - PRESCHOOLS.md
       - EXHIBITION BOOTHS AND EXPLORER ZONE.md
