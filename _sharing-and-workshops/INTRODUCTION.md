@@ -230,16 +230,17 @@ description: ""
 
 <div class="entry-content">
 
-&nbsp; <p>This year, we are hosting 45 sharing sessions and interactive workshops for parents and educators, featuring bonding activities for parents and children. These sessions and workshops provide expert insights and knowledge from academics, educators, curriculum specialists, and media personalities, with the goal of promoting MTL literacy and appreciation.</p>
+<p>This year, we are hosting 45 sharing sessions and interactive workshops for parents and educators, featuring bonding activities for parents and children. These sessions and workshops provide expert insights and knowledge from academics, educators, curriculum specialists, and media personalities, with the goal of promoting MTL literacy and appreciation.</p>
 
-&nbsp; <p>Parents and educators can pre-register for the sharing sessions and interactive workshops here: [link to registration page].</p>
+<p>Parents and educators can pre-register for the sharing sessions and interactive workshops here: [link to registration page].</p>
 
-&nbsp; <p>Stay tuned for the announcement of the pre-registration date and time.</p>
+<p>Stay tuned for the announcement of the pre-registration date and time.</p>
 
-&nbsp; <p>Speaker slides of the sharing sessions and interactive workshops will be uploaded to the website after the event.</p>
+<p>Speaker slides of the sharing sessions and interactive workshops will be uploaded to the website after the event.</p>
 
-&nbsp; <div class="buttons-container">
-&nbsp; &nbsp; <a href="/sharing-and-workshops/sharing-sessions/chinese-sessions/" class="btn-link">Sharing<br>Sessions</a>
-&nbsp; &nbsp; <a href="/sharing-and-workshops/interactive-workshops/chinese-sessions/" class="btn-link">Interactive<br>Workshops</a>
-&nbsp; </div>
+<div class="buttons-container">
+<a href="/sharing-and-workshops/sharing-sessions/chinese-sessions/" class="btn-link">Sharing<br>Sessions</a>
+<a href="/sharing-and-workshops/interactive-workshops/chinese-sessions/" class="btn-link">Interactive<br>Workshops</a>
+</div>
+
 </div>
