@@ -1,7 +1,0 @@
----
-title: Tamil (தமிழ்)
-permalink: /sharing-and-workshops/sharing-sessions/tamil-session/
-variant: markdown
-description: ""
-third_nav_title: Interactive Workshops
----
