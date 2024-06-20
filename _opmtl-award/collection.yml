@@ -2,4 +2,5 @@ collections:
   opmtl-award:
     output: true
     order:
+      - Outstanding Award Winners/.keep
       - Outstanding Preschool Mother Tongue Language Teacher Award.md
