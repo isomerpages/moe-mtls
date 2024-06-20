@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Interactive Workshops/.keep
-      - Interactive Workshops/Chinese (华文).md
+      - Interactive Workshops/华文.md
       - Interactive Workshops/Malay (Bahasa Melayu).md
       - Interactive Workshops/Tamil (தமிழ்).md
       - Interactive Workshops/English.md
