@@ -1,4 +1,5 @@
 collections:
   opmtl-award:
     output: true
-    order: []
+    order:
+      - awardees.md
