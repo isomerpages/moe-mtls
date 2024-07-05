@@ -242,4 +242,4 @@ description: ""
 
 <div class="entry-title">Supported By</div>
 
-![Supported By](/images/mtls2024_supported_by.png)
+![Supported By](/images/mtls2024-supported-by.png)
