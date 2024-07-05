@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Introduction.md
-      - PRESCHOOLS.md
+      - Preschools.md
       - PRIMARY & SECONDARY SCHOOLS.md
       - COMMUNITY PARTNERS.md
