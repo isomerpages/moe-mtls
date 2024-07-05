@@ -246,7 +246,7 @@ description: ""
 }
 </style>
 
-<div class="entry-title">EXHIBITION BOOTHS &amp; EXPLORER ZONE</div>
+<div class="entry-title">EXHIBITION BOOTHS AND EXPLORER ZONE</div>
 
 <div class="entry-content">
 
