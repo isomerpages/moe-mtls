@@ -258,7 +258,7 @@ You can secure your spot for your preferred sharing sessions and interactive wor
 Pre-register now!
 </a>
 </div>
-<h4>Pre-registration for entry into Exhibition Hall</h4>
+<h4>Pre-registration for entry into the Exhibition Hall</h4>
 <p>
 You can secure your entry into the exhibition hall by booking your preferred timeslot.
 </p>
