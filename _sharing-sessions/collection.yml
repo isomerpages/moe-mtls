@@ -1,4 +1,5 @@
 collections:
   sharing-sessions:
     output: true
-    order: []
+    order:
+      - Chinese/.keep
