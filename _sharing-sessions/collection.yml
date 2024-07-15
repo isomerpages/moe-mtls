@@ -2,4 +2,5 @@ collections:
   sharing-sessions:
     output: true
     order:
+      - 华文/CL1.md
       - 华文/.keep
