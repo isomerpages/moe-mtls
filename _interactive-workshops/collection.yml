@@ -1,4 +1,5 @@
 collections:
   interactive-workshops:
     output: true
-    order: []
+    order:
+      - CL14.md
