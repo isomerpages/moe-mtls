@@ -2,8 +2,8 @@ collections:
   sharing-sessions:
     output: true
     order:
-      - 华文/cl4.md
       - 华文/.keep
       - 华文/让孩子轻松学华文.md
       - 华文/拇指家族陪你乐学华文.md
       - 华文/实践中学习：利用科技提升情境式学习体验.md
+      - 华文/cl4.md
