@@ -1,0 +1,4 @@
+collections:
+  sharing-sessions:
+    output: true
+    order: []
