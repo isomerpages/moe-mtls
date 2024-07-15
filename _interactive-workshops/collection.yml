@@ -1,0 +1,4 @@
+collections:
+  interactive-workshops:
+    output: true
+    order: []
