@@ -252,7 +252,7 @@ description: ""
 
 <p>This year, we are hosting 45 sharing sessions and interactive workshops for parents and educators, featuring bonding activities for parents and children. These sessions and workshops provide expert insights and knowledge from academics, educators, curriculum specialists, and media personalities, with the goal of promoting MTL literacy and appreciation.</p>
 
-<p>Parents and educators can pre-register for the sharing sessions and interactive workshops here: [link to registration page].</p>
+<p>Parents and educators can pre-register for the sharing sessions and interactive workshops soon.</p>
 
 <p>Stay tuned for the announcement of the pre-registration date and time.</p>
 
