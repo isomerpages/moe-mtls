@@ -2,7 +2,6 @@ collections:
   sharing-sessions:
     output: true
     order:
-      - 华文/cl13.md
       - 华文/.keep
       - 华文/让孩子轻松学华文.md
       - 华文/拇指家族陪你乐学华文.md
@@ -16,3 +15,4 @@ collections:
       - 华文/图式游戏与幼儿华语习得之间的“秘密”.md
       - 华文/通过有意义的游戏为幼儿的华语学习注入活力.md
       - 华文/中学华文学习技法101.md
+      - 华文/cl13.md
