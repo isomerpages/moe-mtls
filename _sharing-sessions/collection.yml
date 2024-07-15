@@ -2,4 +2,4 @@ collections:
   sharing-sessions:
     output: true
     order:
-      - Chinese/.keep
+      - 华文/.keep
