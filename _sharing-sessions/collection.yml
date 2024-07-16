@@ -2,9 +2,6 @@ collections:
   sharing-sessions:
     output: true
     order:
-      - Bahasa Melayu/.keep
-      - Bahasa Melayu/Epal atau Apple? Yang Mana Satu?.md
-      - Bahasa Melayu/Seronoknya Buku Bergambar!.md
       - 华文/.keep
       - 华文/让孩子轻松学华文.md
       - 华文/拇指家族陪你乐学华文.md
@@ -19,6 +16,9 @@ collections:
       - 华文/通过有意义的游戏为幼儿的华语学习注入活力.md
       - 华文/中学华文学习技法101.md
       - 华文/培育儿童阅读兴趣：图书馆书籍推荐.md
+      - Bahasa Melayu/.keep
+      - Bahasa Melayu/Epal atau Apple? Yang Mana Satu?.md
+      - Bahasa Melayu/Seronoknya Buku Bergambar!.md
       - தமிழ்/.keep
       - "தமிழ்/மொழிவளர்ச்சிக்குத் துணைநிற்றல்: இல்லத்தில் தமிழ்மொழியின்
         முக்கியத்துவம்.md"
