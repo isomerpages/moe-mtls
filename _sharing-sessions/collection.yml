@@ -2,6 +2,7 @@ collections:
   sharing-sessions:
     output: true
     order:
+      - தமிழ்/Tamil.md
       - தமிழ்/.keep
       - 华文/.keep
       - 华文/让孩子轻松学华文.md
