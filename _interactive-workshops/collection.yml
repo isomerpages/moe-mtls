@@ -2,6 +2,7 @@ collections:
   interactive-workshops:
     output: true
     order:
+      - தமிழ்/TL7.md
       - தமிழ்/.keep
       - தமிழ்/வீட்டிலும் தமிழில் பேசலாம்!.md
       - தமிழ்/மாய எழுத்துலகில் லலிதா.md
