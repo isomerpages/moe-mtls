@@ -51,43 +51,52 @@ description: ""
 }
 .entry-content.sharing-sessions .session-item{
   align-items: flex-start;
-  row-gap: 1rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin-bottom: 2rem;
-  width: 100%;
-}
-.entry-content.sharing-sessions .session-item .session-description,
-.entry-content.sharing-sessions .session-item .session-link{
   background-color:#d84178;
   border-radius: 0.5rem;
+  color: #ffffff;
+  row-gap: 2rem;
+  display: flex;
+  font-size: 1.1rem;
+  flex-direction: column;
+  line-height: 1.2;
+  justify-content: space-between;
+  margin-bottom: 2rem;
   padding: 1rem;
+  width: 100%;
 }
-.entry-content.sharing-sessions.malay-sessions .session-item .session-description,
-.entry-content.sharing-sessions.malay-sessions .session-item .session-link{
+.entry-content.sharing-sessions .session-item .lower-wrapper{
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  width: 100%;
+}
+.entry-content.sharing-sessions .session-item .session-link{
+  border: 2px solid lightgrey;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+.entry-content.sharing-sessions .session-item .session-link a{
+  color: #ffffff;
+}
+
+.entry-content.sharing-sessions.malay-sessions .session-item{
   background-color: #a3c864;
 }
-.entry-content.sharing-sessions.tamil-sessions .session-item .session-description,
-.entry-content.sharing-sessions.tamil-sessions .session-item .session-link,
-.entry-content.sharing-sessions.preschools-exhibitors .session-item .session-description,
-.entry-content.sharing-sessions.preschools-exhibitors .session-item .session-link{
+
+.entry-content.sharing-sessions.tamil-sessions .session-item,
+.entry-content.sharing-sessions.preschools-exhibitors .session-item{
   background-color: #9b4490;
 }
-.entry-content.sharing-sessions.english-sessions .session-item .session-description,
-.entry-content.sharing-sessions.english-sessions .session-item .session-link{
+
+.entry-content.sharing-sessions.english-sessions .session-item{
   background-color: #fa0;
 }
-.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item .session-description,
-.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item .session-link{
+
+.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item{
   background-color: #a3c864;
 }
-.entry-content.sharing-sessions .session-item p,
-.entry-content.sharing-sessions .session-item a{
-  color: #fff;
-  font-size: 1.1rem;
-  line-height: 1.2;
-}
+
 .entry-content.sharing-sessions .session-item .session-link:hover{
   background-color: lightgrey;
 }
@@ -140,8 +149,16 @@ description: ""
   row-gap: 1rem;
 }
 .entry-content.sharing-session-item .profile-photo{
-  margin: 0 auto;
-  text-align: center;
+  align-items: center;
+  column-gap: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 2rem;
+  margin-bottom: 2rem;
+}
+.entry-content.sharing-session-item .profile-photo img{
+  border-radius: 100px;
   width: 200px;
 }
 .entry-content.sharing-session-item.awardee-item .profile-photo{
@@ -245,13 +262,11 @@ description: ""
     row-gap: 1.5rem;
   }
 
-  .entry-content.sharing-sessions .session-item{
-    align-items: flex-start;
-    column-gap: 1rem;
+  
+  .entry-content.sharing-sessions .session-item .lower-wrapper{
+    align-items: center;
     flex-direction: row;
-  }
-  .entry-content.sharing-sessions .session-item .session-description{
-    flex: 5;
+    justify-content: space-between;
   }
 
   .entry-content.sharing-session-item .sharing-sessions-nav .inner-nav-wrapper .nav-btn{
@@ -260,4 +275,43 @@ description: ""
 }
 </style>
 
-<div class="coming-soon">Coming Soon</div>
+<div class="entry-content sharing-sessions malay-sessions">
+<div class="session-item">
+<div class="session-title">
+Epal atau Apple? Yang Mana Satu?<br>
+Epal or Apple? Which one?
+</div>
+<div class="lower-wrapper">
+<div class="speaker">
+Puan Salha Binte Mohamed Hussain<br>
+Mdm Salha Binte Mohamed Hussain<br>
+<br>
+Puan Raihanah Binte Mohamed<br>
+Mdm Raihanah Binte Mohamed
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/sharing-sessions/malay-sessions/ml1/">
+<p>Sinopsis</p>
+</a>
+</div>
+</div>
+</div>
+<div class="session-item">
+<div class="session-title">
+Seronoknya Buku Bergambar!<br>
+The Joy of Picture Books!
+</div>
+<div class="lower-wrapper">
+<div class="speaker">
+Encik Muhammed Shahril Shaik Abdullah<br>
+Mr Muhammed Shahril Shaik Abdullah
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/sharing-sessions/malay-sessions/ml2/">
+<p>Sinopsis</p>
+</a>
+</div>
+</div>
+</div>
+
+</div>
