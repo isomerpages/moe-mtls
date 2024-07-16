@@ -51,43 +51,52 @@ third_nav_title: Interactive Workshops
 }
 .entry-content.sharing-sessions .session-item{
   align-items: flex-start;
-  row-gap: 1rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin-bottom: 2rem;
-  width: 100%;
-}
-.entry-content.sharing-sessions .session-item .session-description,
-.entry-content.sharing-sessions .session-item .session-link{
   background-color:#d84178;
   border-radius: 0.5rem;
+  color: #ffffff;
+  row-gap: 2rem;
+  display: flex;
+  font-size: 1.1rem;
+  flex-direction: column;
+  line-height: 1.2;
+  justify-content: space-between;
+  margin-bottom: 2rem;
   padding: 1rem;
+  width: 100%;
 }
-.entry-content.sharing-sessions.malay-sessions .session-item .session-description,
-.entry-content.sharing-sessions.malay-sessions .session-item .session-link{
+.entry-content.sharing-sessions .session-item .lower-wrapper{
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  width: 100%;
+}
+.entry-content.sharing-sessions .session-item .session-link{
+  border: 2px solid lightgrey;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+.entry-content.sharing-sessions .session-item .session-link a{
+  color: #ffffff;
+}
+
+.entry-content.sharing-sessions.malay-sessions .session-item{
   background-color: #a3c864;
 }
-.entry-content.sharing-sessions.tamil-sessions .session-item .session-description,
-.entry-content.sharing-sessions.tamil-sessions .session-item .session-link,
-.entry-content.sharing-sessions.preschools-exhibitors .session-item .session-description,
-.entry-content.sharing-sessions.preschools-exhibitors .session-item .session-link{
+
+.entry-content.sharing-sessions.tamil-sessions .session-item,
+.entry-content.sharing-sessions.preschools-exhibitors .session-item{
   background-color: #9b4490;
 }
-.entry-content.sharing-sessions.english-sessions .session-item .session-description,
-.entry-content.sharing-sessions.english-sessions .session-item .session-link{
+
+.entry-content.sharing-sessions.english-sessions .session-item{
   background-color: #fa0;
 }
-.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item .session-description,
-.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item .session-link{
+
+.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item{
   background-color: #a3c864;
 }
-.entry-content.sharing-sessions .session-item p,
-.entry-content.sharing-sessions .session-item a{
-  color: #fff;
-  font-size: 1.1rem;
-  line-height: 1.2;
-}
+
 .entry-content.sharing-sessions .session-item .session-link:hover{
   background-color: lightgrey;
 }
@@ -140,8 +149,16 @@ third_nav_title: Interactive Workshops
   row-gap: 1rem;
 }
 .entry-content.sharing-session-item .profile-photo{
-  margin: 0 auto;
-  text-align: center;
+  align-items: center;
+  column-gap: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 2rem;
+  margin-bottom: 2rem;
+}
+.entry-content.sharing-session-item .profile-photo img{
+  border-radius: 100px;
   width: 200px;
 }
 .entry-content.sharing-session-item.awardee-item .profile-photo{
@@ -245,13 +262,11 @@ third_nav_title: Interactive Workshops
     row-gap: 1.5rem;
   }
 
-  .entry-content.sharing-sessions .session-item{
-    align-items: flex-start;
-    column-gap: 1rem;
+  
+  .entry-content.sharing-sessions .session-item .lower-wrapper{
+    align-items: center;
     flex-direction: row;
-  }
-  .entry-content.sharing-sessions .session-item .session-description{
-    flex: 5;
+    justify-content: space-between;
   }
 
   .entry-content.sharing-session-item .sharing-sessions-nav .inner-nav-wrapper .nav-btn{
@@ -260,4 +275,86 @@ third_nav_title: Interactive Workshops
 }
 </style>
 
-<div class="coming-soon">Coming Soon</div>
+<div class="entry-content sharing-sessions malay-sessions">
+<div class="session-item">
+<div class="session-title">
+Pembelajaran Bahasa Ibunda Yang Mengasyikkan Di Mandai Wildlife Reserve<br>
+An Immersive Mother Tongue Learning Experience at Mandai Wildlife Reserve
+</div>
+<div class="lower-wrapper">
+<div class="speaker">
+Encik Haniman Boniran<br>
+Mr Haniman Boniran
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/interactive-workshops/malay-sessions/ml3/">
+<p>Sinopsis</p>
+</a>
+</div>
+</div>
+</div>
+<div class="session-item">
+<div class="session-title">
+Dramatisasi Meningkatkan Kemahiran Komunikasi<br>
+Dramatisation enhances communication skills
+</div>
+<div class="lower-wrapper">
+<div class="speaker">
+Puan Nurmah Zainal<br>
+Mdm Nurmah Zainal<br>
+<br>
+Cik Nur Faizah Matnoor<br>
+Ms Nur Faizah Matnoor<br>
+<br>
+Puan Nur Hafizah Mokhtar<br>
+Mdm Nur Hafizah Mokhtar
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/interactive-workshops/malay-sessions/ml4/">
+<p>Sinopsis</p>
+</a>
+</div>
+</div>
+</div>
+<div class="session-item">
+<div class="session-title">
+Rimaginasi<br>
+Imaginations Through Rhymes
+</div>
+<div class="lower-wrapper">
+<div class="speaker">
+Encik Muhammad Shahril Bin Samri<br>
+Mr Muhammad Shahril Bin Samri<br>
+<br>
+Cik Dewi Nurhaliza Binte Mohd Hanafiah<br>
+Ms Dewi Nurhaliza Binte Mohd Hanafiah<br>
+<br>
+Cik Nurulfatin Binte Sazali<br>
+Ms Nurulfatin Binte Sazali<br>
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/interactive-workshops/malay-sessions/ml5/">
+<p>Sinopsis</p>
+</a>
+</div>
+</div>
+</div>
+<div class="session-item">
+<div class="session-title">
+Syioknya Bahasa Melayu!<br>
+Malay Language is so 'Syiok' (The Joy of Malay Language)
+</div>
+<div class="lower-wrapper">
+<div class="speaker">
+Encik Hafeez Harun (Hafeez Glamour)<br>
+Mr Hafeez Harun (Hafeez Glamour)
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/interactive-workshops/malay-sessions/ml6/">
+<p>Sinopsis</p>
+</a>
+</div>
+</div>
+</div>
+
+</div>
