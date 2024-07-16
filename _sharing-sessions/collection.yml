@@ -2,7 +2,8 @@ collections:
   sharing-sessions:
     output: true
     order:
-      - தமிழ்/Tamil.md
+      - "தமிழ்/மொழிவளர்ச்சிக்குத் துணைநிற்றல்: இல்லத்தில் தமிழ்மொழியின்
+        முக்கியத்துவம்.md"
       - தமிழ்/.keep
       - 华文/.keep
       - 华文/让孩子轻松学华文.md
