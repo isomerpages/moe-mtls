@@ -2,9 +2,9 @@ collections:
   interactive-workshops:
     output: true
     order:
-      - தமிழ்/TL5.md
-      - தமிழ்/வீட்டிலும் தமிழில் பேசலாம்!.md
       - தமிழ்/.keep
+      - தமிழ்/வீட்டிலும் தமிழில் பேசலாம்!.md
+      - தமிழ்/TL5.md
       - 华文/.keep
       - 华文/身临万态野生动物世界体验母语学习.md
       - 华文/为爱朗读 | 亲子共读绘本的小贴士.md
