@@ -2,6 +2,7 @@ collections:
   sharing-sessions:
     output: true
     order:
+      - Bahasa Melayu/ML2.md
       - Bahasa Melayu/Epal atau Apple? Yang Mana Satu?.md
       - Bahasa Melayu/.keep
       - 华文/.keep
