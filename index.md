@@ -26,12 +26,12 @@ sections:
       button: Find Out More
       url: /about-us/
   - infobar:
-      title: Pre-register for Sharing Sessions and Interactive Workshops!
+      title: Preregister for Sharing Sessions and Interactive Workshops!
       id: infobar
       button: Find Out More
       url: /preregistration/
   - infobar:
-      title: Pre-register for entry into the Exhibition Hall now!
+      title: Preregister for entry into the Exhibition Hall now!
       id: infobar
       button: Find Out More
       url: /preregistration/
