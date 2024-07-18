@@ -16,7 +16,7 @@ sections:
           url: /about-us/
         - title: Pre-registration
           description: ""
-          url: /pre-registration/
+          url: /preregistration/
         - title: Sharing Sessions & Interactive Workshops
           description: ""
           url: /sharing-and-workshops/introduction/
