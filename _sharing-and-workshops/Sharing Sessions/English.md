@@ -51,43 +51,52 @@ third_nav_title: Sharing Sessions
 }
 .entry-content.sharing-sessions .session-item{
   align-items: flex-start;
-  row-gap: 1rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin-bottom: 2rem;
-  width: 100%;
-}
-.entry-content.sharing-sessions .session-item .session-description,
-.entry-content.sharing-sessions .session-item .session-link{
   background-color:#d84178;
   border-radius: 0.5rem;
+  color: #ffffff;
+  row-gap: 2rem;
+  display: flex;
+  font-size: 1.1rem;
+  flex-direction: column;
+  line-height: 1.2;
+  justify-content: space-between;
+  margin-bottom: 2rem;
   padding: 1rem;
+  width: 100%;
 }
-.entry-content.sharing-sessions.malay-sessions .session-item .session-description,
-.entry-content.sharing-sessions.malay-sessions .session-item .session-link{
+.entry-content.sharing-sessions .session-item .lower-wrapper{
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  width: 100%;
+}
+.entry-content.sharing-sessions .session-item .session-link{
+  border: 2px solid lightgrey;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+.entry-content.sharing-sessions .session-item .session-link a{
+  color: #ffffff;
+}
+
+.entry-content.sharing-sessions.malay-sessions .session-item{
   background-color: #a3c864;
 }
-.entry-content.sharing-sessions.tamil-sessions .session-item .session-description,
-.entry-content.sharing-sessions.tamil-sessions .session-item .session-link,
-.entry-content.sharing-sessions.preschools-exhibitors .session-item .session-description,
-.entry-content.sharing-sessions.preschools-exhibitors .session-item .session-link{
+
+.entry-content.sharing-sessions.tamil-sessions .session-item,
+.entry-content.sharing-sessions.preschools-exhibitors .session-item{
   background-color: #9b4490;
 }
-.entry-content.sharing-sessions.english-sessions .session-item .session-description,
-.entry-content.sharing-sessions.english-sessions .session-item .session-link{
+
+.entry-content.sharing-sessions.english-sessions .session-item{
   background-color: #fa0;
 }
-.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item .session-description,
-.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item .session-link{
+
+.entry-content.sharing-sessions.primary-secondary-exhibitors .session-item{
   background-color: #a3c864;
 }
-.entry-content.sharing-sessions .session-item p,
-.entry-content.sharing-sessions .session-item a{
-  color: #fff;
-  font-size: 1.1rem;
-  line-height: 1.2;
-}
+
 .entry-content.sharing-sessions .session-item .session-link:hover{
   background-color: lightgrey;
 }
@@ -140,8 +149,16 @@ third_nav_title: Sharing Sessions
   row-gap: 1rem;
 }
 .entry-content.sharing-session-item .profile-photo{
-  margin: 0 auto;
-  text-align: center;
+  align-items: center;
+  column-gap: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 2rem;
+  margin-bottom: 2rem;
+}
+.entry-content.sharing-session-item .profile-photo img{
+  border-radius: 100px;
   width: 200px;
 }
 .entry-content.sharing-session-item.awardee-item .profile-photo{
@@ -245,13 +262,11 @@ third_nav_title: Sharing Sessions
     row-gap: 1.5rem;
   }
 
-  .entry-content.sharing-sessions .session-item{
-    align-items: flex-start;
-    column-gap: 1rem;
+  
+  .entry-content.sharing-sessions .session-item .lower-wrapper{
+    align-items: center;
     flex-direction: row;
-  }
-  .entry-content.sharing-sessions .session-item .session-description{
-    flex: 5;
+    justify-content: space-between;
   }
 
   .entry-content.sharing-session-item .sharing-sessions-nav .inner-nav-wrapper .nav-btn{
@@ -260,4 +275,62 @@ third_nav_title: Sharing Sessions
 }
 </style>
 
-<div class="coming-soon">Coming Soon</div>
+<div class="entry-content sharing-session-item english-session">
+<div class="sharing-sessions-nav">
+<a href="/sharing-and-workshops/sharing-sessions/english-sessions/">Back</a>
+<div class="inner-nav-wrapper">
+<a class="nav-btn" href="#C1">View Speaker's profile here</a>
+<a class="nav-btn" href="#C2">View Synopsis here</a>
+</div>
+</div>
+
+<div class="profile-photo">
+<img alt="He Sun" src="/images/Sharing_sessions/he-sun.jpg">
+</div>
+
+<div class="profile-name">
+Dr He Sun<br>
+Assistant Centre Director,<br>
+Infancy &amp; Early Childhood Research<br>
+Centre for Research in Child Development,<br>
+OER Centre for Research in Child Development/<br>
+National Institute of Education
+</div>
+
+<div class="section-wrapper">
+<h4 id="C1">Profile</h4>
+<p>
+Dr He Sun is a Senior Education Research Scientist at the National Institute of Education, Nanyang Technological University, Singapore. Her primary research interests include:
+</p>
+<ul>
+<li>Child heritage language maintenance and eBook reading</li>
+<li>Individual differences in early bilingualism/second/foreign language acquisition</li>
+<li>Harmonious bilingual experience</li>
+</ul>
+<p>
+Her work has garnered media attention, being featured in publications such as the Straits Times and CNA. Additionally, she serves as an Associate Editor for the Journal of Child Language. 
+</p>
+</div>
+
+<div class="section-wrapper">
+<h4 id="C2">Synopsis</h4> 
+<p>
+In this session, I will dive into the Harmonious Bilingual Experience Framework, which looks at how parents' bilingual skills and perception towards bilingualism impact their child’s social and emotional development. We will also explore how a child using two languages, having a reading-friendly home, and being proficient at both languages affects their own wellbeing. I will share insights from families in Singapore and the strategies they adopt in raising bilingual children.
+</p>
+<p style="font-weight: 700;">
+Takeaways for Young Parents:
+</p>
+<p>
+<span style="font-weight: 700;">Your Attitude and Language Use Matter:</span> How you feel about and use both languages can shape your child's social and emotional growth.
+</p>
+<p>
+<span style="font-weight: 700;">Create a Reading-Friendly Home:</span> Surround your child with books and literacy activities in both languages to boost their reading interest.
+</p>
+<p>
+<span style="font-weight: 700;">Embrace Bilingualism Early:</span> Start early to help your child become proficient in both languages. 
+</p>
+</div>
+
+<div class="section-wrapper">
+</div>
+</div>
