@@ -275,62 +275,38 @@ third_nav_title: Sharing Sessions
 }
 </style>
 
-<div class="entry-content sharing-session-item english-session">
-<div class="sharing-sessions-nav">
-<a href="/sharing-and-workshops/sharing-sessions/english-sessions/">Back</a>
-<div class="inner-nav-wrapper">
-<a class="nav-btn" href="#C1">View Speaker's profile here</a>
-<a class="nav-btn" href="#C2">View Synopsis here</a>
+<div class="entry-content sharing-sessions english-sessions">
+<div class="session-item">
+<div class="session-title">
+Harmonious Bilingualism in Singapore
+</div>
+<div class="lower-wrapper">
+<div class="speaker">
+Dr He Sun
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/sharing-sessions/english-sessions/el1/">
+<p>Synopsis</p>
+</a>
 </div>
 </div>
-
-<div class="profile-photo">
-<img alt="He Sun" src="/images/Sharing_sessions/he-sun.jpg">
 </div>
-
-<div class="profile-name">
-Dr He Sun<br>
-Assistant Centre Director,<br>
-Infancy &amp; Early Childhood Research<br>
-Centre for Research in Child Development,<br>
-OER Centre for Research in Child Development/<br>
-National Institute of Education
+<div class="session-item">
+<div class="session-title">
+Journeying with Living Languages: MTL Learning Adventures on SLS
 </div>
-
-<div class="section-wrapper">
-<h4 id="C1">Profile</h4>
-<p>
-Dr He Sun is a Senior Education Research Scientist at the National Institute of Education, Nanyang Technological University, Singapore. Her primary research interests include:
-</p>
-<ul>
-<li>Child heritage language maintenance and eBook reading</li>
-<li>Individual differences in early bilingualism/second/foreign language acquisition</li>
-<li>Harmonious bilingual experience</li>
-</ul>
-<p>
-Her work has garnered media attention, being featured in publications such as the Straits Times and CNA. Additionally, she serves as an Associate Editor for the Journal of Child Language. 
-</p>
+<div class="lower-wrapper">
+<div class="speaker">
+Mdm Noor Azimah B Mohd Haad<br>
+Mr Mohan Suppiah<br>
+Mr Tan Zhen Lin
+</div>
+<div class="session-link">
+<a href="/sharing-and-workshops/sharing-sessions/english-sessions/el2/">
+<p>Synopsis</p>
+</a>
+</div>
+</div>
 </div>
 
-<div class="section-wrapper">
-<h4 id="C2">Synopsis</h4> 
-<p>
-In this session, I will dive into the Harmonious Bilingual Experience Framework, which looks at how parents' bilingual skills and perception towards bilingualism impact their child’s social and emotional development. We will also explore how a child using two languages, having a reading-friendly home, and being proficient at both languages affects their own wellbeing. I will share insights from families in Singapore and the strategies they adopt in raising bilingual children.
-</p>
-<p style="font-weight: 700;">
-Takeaways for Young Parents:
-</p>
-<p>
-<span style="font-weight: 700;">Your Attitude and Language Use Matter:</span> How you feel about and use both languages can shape your child's social and emotional growth.
-</p>
-<p>
-<span style="font-weight: 700;">Create a Reading-Friendly Home:</span> Surround your child with books and literacy activities in both languages to boost their reading interest.
-</p>
-<p>
-<span style="font-weight: 700;">Embrace Bilingualism Early:</span> Start early to help your child become proficient in both languages. 
-</p>
-</div>
-
-<div class="section-wrapper">
-</div>
 </div>
