@@ -297,7 +297,7 @@ Unit Bahasa Melayu, Cawangan Bahasa Ibunda, Kementerian Pendidikan Singapura (MO
 <br>
 Mdm Raihanah Binte Mohamed<br>
 Puan Raihanah Binte Mohamed<br>
-Pegawai Pembangunan Sumber Kurrikulum<br>
+Pegawai Pembangunan Sumber Kurikulum<br>
 Unit Bahasa Melayu, Cawangan Bahasa Ibunda, Kementerian Pendidikan Singapura (MOE)
 </div>
 
