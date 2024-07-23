@@ -259,4 +259,4 @@ description: ""
 }
 </style>
 
-<div class="coming-soon">Coming Soon</div>
+<div class="coming-soon">The video of the Opening Ceremony will be uploaded after the event.</div>
