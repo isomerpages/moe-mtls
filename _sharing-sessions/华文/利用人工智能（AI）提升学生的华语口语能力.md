@@ -310,7 +310,7 @@ Dr Dong Yaru, has been a Senior Chinese Language Teacher at CHIJ Primary (Toa Pa
 </div>
 
 <div class="section-wrapper">
-<h4 id="C2">工作坊内容简介</h4> 
+<h4 id="C2">分享会内容简介</h4> 
 <p>
 本次分享会，董博士着重探讨如何利用人工智能（AI）工具的自动评价功能来提升学生的华语口语表达能力，以及独立学习的能力，协助家长支持孩子的学习，并培养学习者终身学习的好习惯。此外，董博士也希望教师能将人工智能（AI）工具融入到日常的华文教学中。董博士特别希望与那些家庭用语以英语为主的小孩的家长分享个人教学心得。
 </p>
