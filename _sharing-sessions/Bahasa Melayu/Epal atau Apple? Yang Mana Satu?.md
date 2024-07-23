@@ -331,8 +331,8 @@ Mdm Raihanah Mohamed who began teaching Malay language in 2009,  has extensive e
 <div class="section-wrapper">
 <h4>Synopsis</h4> 
 <p>
-"“This is an apple.” or “Ini epal.” Which language do you use more often at home – English or Malay? As parents, how can you encourage your child to use the Malay language at home? Surveys
-have shown that students are using less Malay in their conversations in school and at home. In this sharing, the presenters will provide an overview of the Primary School Malay Language Curriculum 2024 to highlight how the Cita package provides relevant contexts and authentic learning resources to pique student’s interest and create fun learning experiences in the classroom. Presenters will guide parents on the use of these materials to support their child’s learning of Malay language at home. The presenters will also share several strategies for parents to develop their children's vocabulary and help them use the Malay language more comfortably."
+“This is an apple.” or “Ini epal.” Which language do you use more often at home – English or Malay? As parents, how can you encourage your child to use the Malay language at home? Surveys
+have shown that students are using less Malay in their conversations in school and at home. In this sharing, the presenters will provide an overview of the Primary School Malay Language Curriculum 2024 to highlight how the Cita package provides relevant contexts and authentic learning resources to pique student’s interest and create fun learning experiences in the classroom. Presenters will guide parents on the use of these materials to support their child’s learning of Malay language at home. The presenters will also share several strategies for parents to develop their children's vocabulary and help them use the Malay language more comfortably.
 </p>
 </div>
 
