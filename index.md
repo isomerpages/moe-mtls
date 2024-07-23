@@ -14,9 +14,9 @@ sections:
         - title: About Us
           description: ""
           url: /about-us/
-        - title: Preregistration
+        - title: Registration
           description: ""
-          url: /preregistration/
+          url: /registration/
         - title: Sharing Sessions & Interactive Workshops
           description: ""
           url: /sharing-and-workshops/introduction/
@@ -26,15 +26,15 @@ sections:
       button: Find Out More
       url: /about-us/
   - infobar:
-      title: Preregister for Sharing Sessions and Interactive Workshops!
+      title: Register for Sharing Sessions and Interactive Workshops!
       id: infobar
       button: Find Out More
-      url: /preregistration/
+      url: /registration/
   - infobar:
-      title: Preregister for entry into the Exhibition Hall now!
+      title: Register for entry into the Exhibition Hall now!
       id: infobar
       button: Find Out More
-      url: /preregistration/
+      url: /registration/
   - infobar:
       title: Sharing Sessions & Interactive Workshops
       id: infobar
