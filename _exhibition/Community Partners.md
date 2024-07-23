@@ -259,4 +259,4 @@ description: ""
 }
 </style>
 
-<div class="coming-soon">Coming Soon</div>
+<div class="coming-soon">The Exhibition boards will be uploaded after the event.</div>
