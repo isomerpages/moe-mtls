@@ -247,24 +247,30 @@ description: ""
 </style>
 <div class="entry-content">
 <p>
-Welcome to our pre-registration section. By pre-registering, you can help us manage crowd flow and ensure a seamless experience for all visitors. Take advantage of this opportunity to plan your visit and make the most of your time at the sharing sessions, interactive workshops, and exhibition. We look forward to welcoming you to the event!
+Welcome to our registration section. By registering, you can help us manage crowd flow and ensure a seamless experience for all visitors. Take advantage of this opportunity to plan your visit and make the most of your time at the sharing sessions, interactive workshops, and exhibition. We look forward to welcoming you to the event!
 </p>
-<h4>Pre-registration for Sharing Sessions and Interactive Workshops</h4>
+<h4>Registration for Sharing Sessions and Interactive Workshops</h4>
 <p>
 You can secure your spot for your preferred sharing sessions and interactive workshops.
 </p>
 <div class="buttons-container">
 <a href="#" class="btn-link">
-Preregister coming soon!
+Register coming soon!
 </a>
 </div>
-<h4>Pre-registration for entry into the Exhibition Hall</h4>
+<h4>Registration for entry into the Exhibition Hall</h4>
 <p>
 You can secure your entry into the exhibition hall by booking your preferred timeslot.
 </p>
 <div class="buttons-container">
 <a href="#" class="btn-link">
-Preregister coming soon!
+Register coming soon!
 </a>
 </div>
+<p>
+Alternatively, make your way to the exhibition hall to collect an entry ticket on the event day, on a first-come, first-served basis.
+</p>
+<p>
+We <span style="text-decoration: underline;">strongly encourage</span> you to register to avoid any disappointment.
+</p>
 </div>
