@@ -319,7 +319,7 @@ Buku bergambar memainkan peranan yang sangat penting dalam pembangunan intelektu
 <div class="section-wrapper">
 <h4>Synopsis</h4> 
 <p>
-"Picture books play a very important role in the intellectual and socio-emotional development of children. Through picture books, children not only develop their early literacy skills but also cultivate core values such as empathy and awareness of a safe and secure environment. In this session, a list of special picture books for children aged 4 to 9 will be shared. It consists of both folk tales and contemporary picture books covering various topics from Singapore and across the region. These books are selected based on the quality of illustrations, the effective use of language, and plots that relate to important themes in children's lives such as family, friendship, and the environment. The books on this list can be read independently by children or read aloud together with parents."
+Picture books play a very important role in the intellectual and socio-emotional development of children. Through picture books, children not only develop their early literacy skills but also cultivate core values such as empathy and awareness of a safe and secure environment. In this session, a list of special picture books for children aged 4 to 9 will be shared. It consists of both folk tales and contemporary picture books covering various topics from Singapore and across the region. These books are selected based on the quality of illustrations, the effective use of language, and plots that relate to important themes in children's lives such as family, friendship, and the environment. The books on this list can be read independently by children or read aloud together with parents.
 </p>
 </div>
 
