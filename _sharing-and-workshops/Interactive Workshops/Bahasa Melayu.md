@@ -296,7 +296,7 @@ Mr Haniman Boniran
 <div class="session-item">
 <div class="session-title">
 Dramatisasi Meningkatkan Kemahiran Komunikasi<br>
-Dramatisation enhances communication skills
+Dramatisation Enhances Communication Skills
 </div>
 <div class="lower-wrapper">
 <div class="speaker">
