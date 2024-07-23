@@ -305,7 +305,7 @@ Dr Dong Yaru<br>
 <div class="section-wrapper">
 <h4>Profile</h4>
 <p>
-Dr Dong Yaru, has been a Senior Chinese Language Teacher at CHIJ Primary (Toa Payoh) for six years. A recipient of the 2023 Distinguished Chinese Language Teacher Award, she is dedicated to using diverse teaching strategies to create effective classrooms, sparking students’ interest in Chinese Language learning, and cultivating lifelong learning habits. Proficient in utilising Edtech to support Chinese Language instruction, she believes that AI tools can provide students with a rich learning experience, particularly in improving their oral expression and language proficiency.
+Dr Dong Yaru has been a Senior Chinese Language Teacher at CHIJ Primary (Toa Payoh) for six years. A recipient of the 2023 Distinguished Chinese Language Teacher Award, she is dedicated to using diverse teaching strategies to create effective classrooms, sparking students’ interest in Chinese Language learning, and cultivating lifelong learning habits. Proficient in utilising Edtech to support Chinese Language instruction, she believes that AI tools can provide students with a rich learning experience, particularly in improving their oral expression and language proficiency.
 </p>
 </div>
 
