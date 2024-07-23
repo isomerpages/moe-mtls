@@ -296,8 +296,8 @@ Puan Nurmah Zainal<br>
 Ketua Subjek (Bahasa Melayu)<br>
 Sekolah Rendah Oasis<br>
 <br>
-Ms Nur Faizah Matnoor<br>
-Cik Nur Faizah Matnoor<br>
+Ms Nur Fa'izah Matnoor<br>
+Cik Nur Fa'izah Matnoor<br>
 Guru Bahasa Melayu<br>
 Sekolah Rendah Oasis<br>
 <br>
