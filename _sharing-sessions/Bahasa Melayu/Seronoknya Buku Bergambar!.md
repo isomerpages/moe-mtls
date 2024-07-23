@@ -305,7 +305,7 @@ Encik Muhammed Shahril Shaik Abdullah bertugas sebagai pustakawan di Perpustakaa
 <div class="section-wrapper">
 <h4>Profile</h4>
 <p>
-"Mr Muhammed Shahril Shaik Abdullah is a librarian at the National Library of Singapore. He often conducts reading programmes for children aged 1 to 9. Holding a Master of Education from Monash University (Australia), as well as a Master of Information Science from Nanyang Technological University, he conducts research related to children's literature and critical education. Some of his works have been published in the book KOMENTAR: Reflections on Current Issues published by Mediacorp."
+Mr Muhammed Shahril Shaik Abdullah is a librarian at the National Library of Singapore. He often conducts reading programmes for children aged 1 to 9. Holding a Master of Education from Monash University (Australia), as well as a Master of Information Science from Nanyang Technological University, he conducts research related to children's literature and critical education. Some of his works have been published in the book KOMENTAR: Reflections on Current Issues published by Mediacorp.
 </p>
 </div>
 
