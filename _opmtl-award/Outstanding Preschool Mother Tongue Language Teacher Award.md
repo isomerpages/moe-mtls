@@ -259,4 +259,4 @@ description: ""
 }
 </style>
 
-<div class="coming-soon">Coming Soon</div>
+<div class="coming-soon">The list of award recipients will be announced after the Opening and Award Ceremony.</div>
