@@ -250,7 +250,7 @@ description: ""
 
 <div class="entry-content">
 
-<p> This year's symposium will feature 41 physical exhibition booths from schools and community partners, each showcasing fun and interactive activities for children to engage with their Mother Tongue Languages (MTLs) while exploring the different exhibition booths.</p>
+<p> This year's symposium will feature 45 physical exhibition booths from schools and community partners, each showcasing fun and interactive activities for children to engage with their Mother Tongue Languages (MTLs) while exploring the different exhibition booths.</p>
 
 <p> Furthermore, this year's Primary and Secondary schools' exhibition booths will be categorised according to three primary focus areas, offering varied learning experiences: </p>
 
