@@ -255,7 +255,7 @@ You can secure your spot for your preferred sharing sessions and interactive wor
 </p>
 <div class="buttons-container">
 <a href="#" class="btn-link">
-Register coming soon!
+Registration starts 13 August 2024
 </a>
 </div>
 <h4>Registration for entry into the Exhibition Hall</h4>
@@ -264,7 +264,7 @@ You can secure your entry into the exhibition hall by booking your preferred tim
 </p>
 <div class="buttons-container">
 <a href="#" class="btn-link">
-Register coming soon!
+Registration starts 20 August 2024
 </a>
 </div>
 <p>
