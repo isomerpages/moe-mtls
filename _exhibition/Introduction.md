@@ -269,3 +269,4 @@ description: ""
 <p>The “Explorer Zone” activities, formerly referred to as the “Centrepiece” activities in past years MTLS', provide children with opportunities to explore their MTLs through real-life scenarios featuring community heroes. These activities allow children to engage in real-life scenarios whilst gaining an appreciation for the dedication of our four community heroes: Sani, the fearless Firefighter, Kavin, the vigilant Lifeguard, Xiao Tao, the friendly Grocer, and Peppy, the joyful Bus Captain.</p>
 
 </div>
+![MTLS 2024 Mascots](/images/mtls2024-webtoons.png)
