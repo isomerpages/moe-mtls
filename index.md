@@ -12,7 +12,7 @@ sections:
         - title: About Us
           description: ""
           url: /about-us/
-        - title: Registration
+        - title: Register Now!
           description: ""
           url: /registration/
         - title: Sharing Sessions & Interactive Workshops
