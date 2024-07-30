@@ -140,6 +140,15 @@ third_nav_title: Bahasa Melayu
 .entry-content.sharing-session-item .sharing-sessions-nav .inner-nav-wrapper .nav-btn:hover{
   background-color: lightgrey;
 }
+.entry-content.sharing-session-item .profile-wrapper{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2rem;
+}
+.entry-content.sharing-session-item .profile-wrapper > div{
+  flex: 1;
+}
 .entry-content.sharing-session-item .profile-photo-container{
   align-items: center;
   column-gap: 1rem;
@@ -237,11 +246,11 @@ third_nav_title: Bahasa Melayu
   bottom: 20px;
   right: 80px;
   z-index: 99;
-  boder: none;
+  border: none;
   background-color: #3bb9ff;
   cursor: pointer;
   padding: 15px;
-  boder-radius: 4px;
+  border-radius: 4px;
   color: #fff;
   font-weight: 600;
 }
@@ -262,6 +271,9 @@ third_nav_title: Bahasa Melayu
     row-gap: 1.5rem;
   }
 
+  .entry-content.sharing-session-item .profile-wrapper > div{
+    flex: 0 1 auto;
+  }
   
   .entry-content.sharing-sessions .session-item .lower-wrapper{
     align-items: center;
@@ -284,27 +296,40 @@ third_nav_title: Bahasa Melayu
 </div>
 </div>
 
+<div class="profiles-container">
+<div class="profile-wrapper">
 <div class="profile-photo">
 <img alt="Muhammad Shahril Bin Samri" src="/images/Interactive_workshops/muhammad-shahril-bin-samri.jpg">
-<img alt="Dewi Nurhaliza Binte Mohd Hanafiah" src="/images/Interactive_workshops/dewi-nurhaliza-binte-mohd-hanafiah.jpg">
-<img alt="Nurulfatin Binte Sazali" src="/images/Interactive_workshops/nurulfatin-binte-sazali.jpg">
 </div>
-
 <div class="profile-name">
 Mr Muhammad Shahril Bin Samri<br>
 Encik Muhammad Shahril Bin Samri<br>
 Guru Prasekolah Bahasa Melayu<br>
-PCF Sparkletots @ Marsiling (CC)<br>
-<br>
+PCF Sparkletots @ Marsiling (CC)
+</div>
+</div>
+<div class="profile-wrapper">
+<div class="profile-photo">
+<img alt="Dewi Nurhaliza Binte Mohd Hanafiah" src="/images/Interactive_workshops/dewi-nurhaliza-binte-mohd-hanafiah.jpg">
+</div>
+<div class="profile-name">
 Ms Dewi Nurhaliza Binte Mohd Hanafiah<br>
 Cik Dewi Nurhaliza Binte Mohd Hanafiah<br>
 Guru Prasekolah Bahasa Melayu<br>
-PCF Sparkletots @ Marsiling (CC)<br>
-<br>
+PCF Sparkletots @ Marsiling (CC)
+</div>
+</div>
+<div class="profile-wrapper">
+<div class="profile-photo">
+<img alt="Nurulfatin Binte Sazali" src="/images/Interactive_workshops/nurulfatin-binte-sazali.jpg">
+</div>
+<div class="profile-name">
 Ms Nurulfatin Binte Sazali<br>
 Cik Nurulfatin Binte Sazali<br>
 Guru Prasekolah Bahasa Melayu<br>
 PCF Sparkletots @ Marsiling (CC)
+</div>
+</div>
 </div>
 
 <div class="section-wrapper">
