@@ -140,6 +140,15 @@ third_nav_title: Bahasa Melayu
 .entry-content.sharing-session-item .sharing-sessions-nav .inner-nav-wrapper .nav-btn:hover{
   background-color: lightgrey;
 }
+.entry-content.sharing-session-item .profile-wrapper{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2rem;
+}
+.entry-content.sharing-session-item .profile-wrapper > div{
+  flex: 1;
+}
 .entry-content.sharing-session-item .profile-photo-container{
   align-items: center;
   column-gap: 1rem;
@@ -237,11 +246,11 @@ third_nav_title: Bahasa Melayu
   bottom: 20px;
   right: 80px;
   z-index: 99;
-  boder: none;
+  border: none;
   background-color: #3bb9ff;
   cursor: pointer;
   padding: 15px;
-  boder-radius: 4px;
+  border-radius: 4px;
   color: #fff;
   font-weight: 600;
 }
@@ -262,6 +271,9 @@ third_nav_title: Bahasa Melayu
     row-gap: 1.5rem;
   }
 
+  .entry-content.sharing-session-item .profile-wrapper > div{
+    flex: 0 1 auto;
+  }
   
   .entry-content.sharing-sessions .session-item .lower-wrapper{
     align-items: center;
@@ -284,27 +296,40 @@ third_nav_title: Bahasa Melayu
 </div>
 </div>
 
+<div class="profiles-container">
+<div class="profile-wrapper">
 <div class="profile-photo">
 <img alt="Nurmah Zainal" src="/images/Interactive_workshops/nurmah-zainal.jpg">
-<img alt="Nur Faizah Matnoor" src="/images/Interactive_workshops/nur-faizah-matnoor.jpg">
-<img alt="Nur Hafizah Mokhtar" src="/images/Interactive_workshops/nur-hafizah-mokhtar.jpg">
 </div>
-
 <div class="profile-name">
 Mdm Nurmah Zainal<br>
 Puan Nurmah Zainal<br>
 Ketua Subjek (Bahasa Melayu)<br>
-Sekolah Rendah Oasis<br>
-<br>
+Sekolah Rendah Oasis
+</div>
+</div>
+<div class="profile-wrapper">
+<div class="profile-photo">
+<img alt="Nur Faizah Matnoor" src="/images/Interactive_workshops/nur-faizah-matnoor.jpg">
+</div>
+<div class="profile-name">
 Ms Nur Fa'izah Matnoor<br>
 Cik Nur Fa'izah Matnoor<br>
 Guru Bahasa Melayu<br>
-Sekolah Rendah Oasis<br>
-<br>
+Sekolah Rendah Oasis
+</div>
+</div>
+<div class="profile-wrapper">
+<div class="profile-photo">
+<img alt="Nur Hafizah Mokhtar" src="/images/Interactive_workshops/nur-hafizah-mokhtar.jpg">
+</div>
+<div class="profile-name">
 Mdm Nur Hafizah Mokhtar<br>
 Puan Nur Hafizah Mokhtar<br>
 Guru Bahasa Melayu<br>
 Sekolah Rendah Oasis
+</div>
+</div>
 </div>
 
 <div class="section-wrapper">
