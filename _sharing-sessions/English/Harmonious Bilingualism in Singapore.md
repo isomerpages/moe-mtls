@@ -293,7 +293,7 @@ Dr He Sun<br>
 Assistant Centre Director,<br>
 Infancy &amp; Early Childhood Research<br>
 Centre for Research in Child Development,<br>
-OER Centre for Research in Child Development/<br>
+OER Centre for Research in Child Development<br>
 National Institute of Education
 </div>
 
