@@ -140,6 +140,15 @@ third_nav_title: English
 .entry-content.sharing-session-item .sharing-sessions-nav .inner-nav-wrapper .nav-btn:hover{
   background-color: lightgrey;
 }
+.entry-content.sharing-session-item .profile-wrapper{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2rem;
+}
+.entry-content.sharing-session-item .profile-wrapper > div{
+  flex: 1;
+}
 .entry-content.sharing-session-item .profile-photo-container{
   align-items: center;
   column-gap: 1rem;
@@ -237,11 +246,11 @@ third_nav_title: English
   bottom: 20px;
   right: 80px;
   z-index: 99;
-  boder: none;
+  border: none;
   background-color: #3bb9ff;
   cursor: pointer;
   padding: 15px;
-  boder-radius: 4px;
+  border-radius: 4px;
   color: #fff;
   font-weight: 600;
 }
@@ -262,6 +271,9 @@ third_nav_title: English
     row-gap: 1.5rem;
   }
 
+  .entry-content.sharing-session-item .profile-wrapper > div{
+    flex: 0 1 auto;
+  }
   
   .entry-content.sharing-sessions .session-item .lower-wrapper{
     align-items: center;
@@ -284,24 +296,37 @@ third_nav_title: English
 </div>
 </div>
 
+<div class="profiles-container">
+<div class="profile-wrapper">
 <div class="profile-photo">
 <img alt="Noor Azimah B Mohd Haad" src="/images/Sharing_sessions/noor-azimah-b-mohd-haad.jpg">
-<img alt="Mohan Suppiah" src="/images/Sharing_sessions/mohan-suppiah.jpg">
-<img alt="Tan Zhen Lin" src="/images/Sharing_sessions/tan-zhen-lin.jpg">
 </div>
-
 <div class="profile-name">
 Mdm Noor Azimah B Mohd Haad<br>
 Assistant Director, Malay Language, CPDD<br>
-Ministry of Education<br>
-<br>
+Ministry of Education
+</div>
+</div>
+<div class="profile-wrapper">
+<div class="profile-photo">
+<img alt="Mohan Suppiah" src="/images/Sharing_sessions/mohan-suppiah.jpg">
+</div>
+<div class="profile-name">
 Mr Mohan Suppiah<br>
 Assistant Director, Tamil Language, CPDD<br>
-Ministry of Education<br>
-<br>
+Ministry of Education
+</div>
+</div>
+<div class="profile-wrapper">
+<div class="profile-photo">
+<img alt="Tan Zhen Lin" src="/images/Sharing_sessions/tan-zhen-lin.jpg">
+</div>
+<div class="profile-name">
 Mr Tan Zhen Lin<br>
 Curriculum Resource Development Officer, Chinese Language, CPDD<br>
 Ministry of Education
+</div>
+</div>
 </div>
 
 <div class="section-wrapper">
