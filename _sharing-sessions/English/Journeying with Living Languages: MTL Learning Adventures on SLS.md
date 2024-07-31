@@ -323,7 +323,8 @@ Ministry of Education
 </div>
 <div class="profile-name">
 Mr Tan Zhen Lin<br>
-Curriculum Resource Development Officer, Chinese Language, CPDD<br>
+Curriculum Resource Development Officer,<br>
+Chinese Language, CPDD<br>
 Ministry of Education
 </div>
 </div>
