@@ -1,8 +1,12 @@
-logo: /images/isomer-logo.svg
+logo: /images/mtls2024_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Register Now!
+    url: /registration/
+  - title: Sharing & Workshops
+    collection: sharing-and-workshops
+  - title: Exhibition
+    collection: exhibition
+  - title: Opening Ceremony
+    url: /opening-ceremony/
+  - title: OPMTL Award
+    url: /opmtl-award/

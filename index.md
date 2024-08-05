@@ -1,31 +1,41 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: Mother Tongue Languages Symposium
+description: Mother Tongue Languages Symposium 2024
+image: /images/mtls2024_logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/hero-banner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: About Us
+          description: ""
+          url: /about-us/
+        - title: Register Now!
+          description: ""
+          url: /registration/
+        - title: Sharing Sessions & Interactive Workshops
+          description: ""
+          url: /sharing-and-workshops/introduction/
+      variant: image
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Mother Tongue Languages Symposium 2024
+      button: Find Out More
+      url: /about-us/
+  - infobar:
+      title: Register for Sharing Sessions and Interactive Workshops!
+      id: infobar
+      button: Find Out More
+      url: /registration/
+  - infobar:
+      title: Register for entry into the Exhibition Hall now!
+      id: infobar
+      button: Find Out More
+      url: /registration/
+  - infobar:
+      title: Sharing Sessions & Interactive Workshops
+      id: infobar
+      button: Find Out More
+      url: /sharing-and-workshops/introduction/
 ---

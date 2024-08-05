@@ -1,6 +1,6 @@
-title: Title
-url: https://mtls.edu.sg
-favicon: /images/favicon-isomer.ico
+title: Mother Tongue Languages Symposium
+url: https://www.mtls.edu.sg
+favicon: /images/mtls2024_logo.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Mother Tongue Languages Symposium 2024
 permalink: none
 baseurl: ""
 exclude:
@@ -50,9 +50,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 staging: https://staging-lite.d1qc9zkk4bl5gp.amplifyapp.com
-prod: https://master.ddrozopg9clby.amplifyapp.com
+prod: https://master.d1lx11zcksi2jl.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/mtls2024_logo.png
 is_government: false
-google_analytics_ga4: G-0KN4KZ4NF3
+google_analytics_ga4: G-XR2FQE4G68
 linkedin-insights: ""
