@@ -1,0 +1,12 @@
+logo: /images/mtls2024_logo.png
+links:
+  - title: Register Now!
+    url: /registration/
+  - title: Sharing & Workshops
+    collection: sharing-and-workshops
+  - title: Exhibition
+    collection: exhibition
+  - title: Opening Ceremony
+    url: /opening-ceremony/
+  - title: OPMTL Award
+    url: /opmtl-award/

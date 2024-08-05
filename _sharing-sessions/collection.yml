@@ -1,0 +1,32 @@
+collections:
+  sharing-sessions:
+    output: true
+    order:
+      - 华文/.keep
+      - 华文/让孩子轻松学华文.md
+      - 华文/拇指家族陪你乐学华文.md
+      - 华文/实践中学习：利用科技提升情境式学习体验.md
+      - "华文/多听多看: 通过本地影视音频娱乐内容提高孩子学习华文的兴趣.md"
+      - 华文/利用人工智能（AI）提升学生的华语口语能力.md
+      - 华文/《欢乐伙伴20》一年级教材及资源介绍.md
+      - 华文/通过数学活动, 激发幼儿对华文的学习.md
+      - 华文/让每一个孩子在多元游戏与分层活动中快乐学华文 —— 学前差异教学之探索与尝试.md
+      - 华文/解锁双语自信：培养双语小孩的5大洞察.md
+      - 华文/图式游戏与幼儿华语习得之间的“秘密”.md
+      - 华文/通过有意义的游戏为幼儿的华语学习注入活力.md
+      - 华文/华文伴我行 —— 中学华文课程知多少.md
+      - 华文/培育儿童阅读兴趣：图书馆书籍推荐.md
+      - Bahasa Melayu/.keep
+      - Bahasa Melayu/Epal atau Apple? Yang Mana Satu?.md
+      - Bahasa Melayu/Seronoknya Buku Bergambar!.md
+      - தமிழ்/.keep
+      - "தமிழ்/மொழிவளர்ச்சிக்குத் துணைநிற்றல்: இல்லத்தில் தமிழ்மொழியின்
+        முக்கியத்துவம்.md"
+      - தமிழ்/விழுமியங்களைக் கற்றுக்கொடுப்பதில் தமிழ்ச் சிறுவர் நூல்களின்
+        பங்கு.md
+      - "தமிழ்/பிள்ளைகளை ஈடுபடுத்துதல்: மொழியைப் பயன்படுத்துவதற்குரிய உகந்த
+        வீட்டுச்சூழல்.md"
+      - English/.keep
+      - English/Harmonious Bilingualism in Singapore.md
+      - "English/Journeying with Living Languages: MTL Learning Adventures on
+        SLS.md"
