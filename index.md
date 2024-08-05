@@ -18,7 +18,7 @@ sections:
         - title: Sharing Sessions & Interactive Workshops
           description: ""
           url: /sharing-and-workshops/introduction/
-      variant: image
+      variant: center
   - infobar:
       title: Mother Tongue Languages Symposium 2024
       button: Find Out More
