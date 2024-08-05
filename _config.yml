@@ -50,7 +50,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 staging: https://staging-lite.d1qc9zkk4bl5gp.amplifyapp.com
-prod: https://master.ddrozopg9clby.amplifyapp.com
+prod: https://master.d1lx11zcksi2jl.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/mtls2024_logo.png
 is_government: false
