@@ -1,0 +1,10 @@
+collections:
+  exhibition:
+    output: true
+    order:
+      - Introduction.md
+      - Preschools.md
+      - Primary & Secondary Schools.md
+      - Community Partners.md
+      - Performance Schedule.md
+      - Sales Booth.md
