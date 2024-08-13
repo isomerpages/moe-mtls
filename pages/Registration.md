@@ -255,7 +255,7 @@ You can secure your spot for your preferred sharing sessions and interactive wor
 </p>
 <div class="buttons-container">
 <a target="_blank" href="https://www.mtls2024.sg/registration/sharing-sessions-interactive-workshops/" class="btn-link">
-Registration starts 13 August 2024
+Register Now
 </a>
 </div>
 <h4>Registration for entry into the Exhibition Hall</h4>
