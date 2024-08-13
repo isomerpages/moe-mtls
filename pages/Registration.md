@@ -254,7 +254,7 @@ Welcome to our registration section. By registering, you can help us manage crow
 You can secure your spot for your preferred sharing sessions and interactive workshops.
 </p>
 <div class="buttons-container">
-<a href="#" class="btn-link">
+<a href="https://www.mtls2024.sg/registration/sharing-sessions-interactive-workshops/" class="btn-link">
 Registration starts 13 August 2024
 </a>
 </div>
