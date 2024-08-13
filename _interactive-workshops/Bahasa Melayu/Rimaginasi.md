@@ -302,8 +302,8 @@ third_nav_title: Bahasa Melayu
 <img alt="Muhammad Shahril Bin Samri" src="/images/Interactive_workshops/muhammad-shahril-bin-samri.jpg">
 </div>
 <div class="profile-name">
-Mr Muhammad Shahril Bin Samri<br>
-Encik Muhammad Shahril Bin Samri<br>
+Mr Muhamad Shahril Bin Samri<br>
+Encik Muhamad Shahril Bin Samri<br>
 Guru Prasekolah Bahasa Melayu<br>
 PCF Sparkletots @ Marsiling (CC)
 </div>
