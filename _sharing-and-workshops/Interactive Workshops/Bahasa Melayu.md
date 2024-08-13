@@ -323,8 +323,8 @@ Imaginations Through Rhymes
 </div>
 <div class="lower-wrapper">
 <div class="speaker">
-Encik Muhammad Shahril Bin Samri<br>
-Mr Muhammad Shahril Bin Samri<br>
+Encik Muhamad Shahril Bin Samri<br>
+Mr Muhamad Shahril Bin Samri<br>
 <br>
 Cik Dewi Nurhaliza Binte Mohd Hanafiah<br>
 Ms Dewi Nurhaliza Binte Mohd Hanafiah<br>
