@@ -260,7 +260,7 @@ Register Now
 </div>
 <h4>Registration for entry into the Exhibition Hall</h4>
 <p>
-You can secure your entry into the exhibition hall by booking your preferred timeslot.
+Registration is strongly recommended for entry to the exhibition hall. Walk-in guests may be denied entry if registration is full or hall has reached full capacity.
 </p>
 <div class="buttons-container">
 <a target="_blank" href="https://www.mtls2024.sg/registration/exhibition/" class="btn-link">
@@ -268,9 +268,8 @@ Register Now
 </a>
 </div>
 <p>
-Alternatively, make your way to the exhibition hall to collect an entry ticket on the event day, on a first-come, first-served basis.
+Note: For Sharing Sessions and Interactive Workshops, you will need to register separately.
 </p>
 <p>
-We <span style="text-decoration: underline;">strongly encourage</span> you to register to avoid any disappointment.
 </p>
 </div>
