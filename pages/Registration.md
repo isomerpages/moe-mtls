@@ -263,8 +263,8 @@ Register Now
 You can secure your entry into the exhibition hall by booking your preferred timeslot.
 </p>
 <div class="buttons-container">
-<a href="#" class="btn-link">
-Registration starts 20 August 2024
+<a target="_blank" href="https://www.mtls2024.sg/registration/exhibition/" class="btn-link">
+Register Now
 </a>
 </div>
 <p>
