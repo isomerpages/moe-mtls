@@ -2,9 +2,9 @@ collections:
   exhibition:
     output: true
     order:
-      - Sales Booth/Bahasa Melayu.md
-      - Sales Booth/华文.md
       - Sales Booth/.keep
+      - Sales Booth/华文.md
+      - Sales Booth/Bahasa Melayu.md
       - Introduction.md
       - Preschools.md
       - Primary & Secondary Schools.md
