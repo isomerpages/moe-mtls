@@ -2,7 +2,7 @@ collections:
   exhibition:
     output: true
     order:
-      - Sales Booth/Sales Booth.md
+      - Sales Booth/华文.md
       - Sales Booth/.keep
       - Introduction.md
       - Preschools.md
