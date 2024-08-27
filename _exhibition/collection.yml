@@ -2,6 +2,7 @@ collections:
   exhibition:
     output: true
     order:
+      - Sales Booth.md
       - Introduction.md
       - Preschools.md
       - Primary & Secondary Schools.md
