@@ -251,25 +251,11 @@ Welcome to our registration section. By registering, you can help us manage crow
 </p>
 <h4>Registration for Sharing Sessions and Interactive Workshops</h4>
 <p>
-You can secure your spot for your preferred sharing sessions and interactive workshops.
-</p>
-<div class="buttons-container">
-<a target="_blank" href="https://www.mtls2024.sg/registration/sharing-sessions-interactive-workshops/" class="btn-link">
-Register Now
-</a>
-</div>
+All slots for sharing sessions and interactive workshops have been fully booked. Thank you for your overwhelming support!
+
+
+</p></div>
 <h4>Registration for entry into the Exhibition Hall</h4>
 <p>
-Registration is strongly recommended for entry to the exhibition hall. Walk-in guests may be denied entry if registration is full or hall has reached full capacity.
+Hi! All the online tickets have been fully booked, and online registration is now closed. Thank you for your strong interest and support! Limited walk-in tickets will be available on the event day, but admission is subject to hall capacity and cannot be guaranteed. Please note that these limited tickets will be released periodically throughout the event.
 </p>
-<div class="buttons-container">
-<a target="_blank" href="https://www.mtls2024.sg/registration/exhibition/" class="btn-link">
-Register Now
-</a>
-</div>
-<p>
-Note: For Sharing Sessions and Interactive Workshops, you will need to register separately.
-</p>
-<p>
-</p>
-</div>
