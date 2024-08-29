@@ -257,5 +257,5 @@ All slots for sharing sessions and interactive workshops have been fully booked.
 </p></div>
 <h4>Registration for entry into the Exhibition Hall</h4>
 <p>
-Hi! All the online tickets have been fully booked, and online registration is now closed. Thank you for your strong interest and support! Limited walk-in tickets will be available on the event day, but admission is subject to hall capacity and cannot be guaranteed. Please note that these limited tickets will be released periodically throughout the event.
+Hi! All the online tickets have been fully booked, and online registration is now closed. Thank you for your strong interest and support! Limited walk-in tickets will be available on the event day, but admission is subject to hall capacity and cannot be guaranteed. Please note that these limited tickets will be issued periodically throughout the event.
 </p>
