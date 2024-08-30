@@ -246,30 +246,17 @@ description: ""
 }
 </style>
 <div class="entry-content">
+
+<p></p>
+<h4>Thank You - Fully Booked</h4>
 <p>
-Welcome to our registration section. By registering, you can help us manage crowd flow and ensure a seamless experience for all visitors. Take advantage of this opportunity to plan your visit and make the most of your time at the sharing sessions, interactive workshops, and exhibition. We look forward to welcoming you to the event!
-</p>
-<h4>Registration for Sharing Sessions and Interactive Workshops</h4>
+All our sharing sessions, interactive workshops, and entry tickets for exhibition hall are fully booked. Thank you for your strong interest and support!
+
+
+</p></div>
+<h4>Limited Walk-In Tickets on Actual Event Day</h4>
 <p>
-You can secure your spot for your preferred sharing sessions and interactive workshops.
+For those who did not manage to book the tickets to the exhibition, there will be walk-in tickets issued at regular intervals throughout the day. Kindly note that tickets are limited in quantity, admission is not guaranteed and subject to hall capacity.
+	
+Admission after 7pm does not require tickets, subject to hall capacity.
 </p>
-<div class="buttons-container">
-<a target="_blank" href="https://www.mtls2024.sg/registration/sharing-sessions-interactive-workshops/" class="btn-link">
-Register Now
-</a>
-</div>
-<h4>Registration for entry into the Exhibition Hall</h4>
-<p>
-Registration is strongly recommended for entry to the exhibition hall. Walk-in guests may be denied entry if registration is full or hall has reached full capacity.
-</p>
-<div class="buttons-container">
-<a target="_blank" href="https://www.mtls2024.sg/registration/exhibition/" class="btn-link">
-Register Now
-</a>
-</div>
-<p>
-Note: For Sharing Sessions and Interactive Workshops, you will need to register separately.
-</p>
-<p>
-</p>
-</div>
