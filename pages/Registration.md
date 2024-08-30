@@ -246,9 +246,8 @@ description: ""
 }
 </style>
 <div class="entry-content">
-<p>
-Welcome to our registration section. By registering, you can help us manage crowd flow and ensure a seamless experience for all visitors. Take advantage of this opportunity to plan your visit and make the most of your time at the sharing sessions, interactive workshops, and exhibition. We look forward to welcoming you to the event!
-</p>
+
+<p></p>
 <h4>Thank You - Fully Booked</h4>
 <p>
 All our sharing sessions, interactive workshops, and entry tickets for exhibition hall are fully booked. Thank you for your strong interest and support!
