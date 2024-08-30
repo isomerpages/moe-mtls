@@ -249,15 +249,15 @@ description: ""
 <p>
 Welcome to our registration section. By registering, you can help us manage crowd flow and ensure a seamless experience for all visitors. Take advantage of this opportunity to plan your visit and make the most of your time at the sharing sessions, interactive workshops, and exhibition. We look forward to welcoming you to the event!
 </p>
-<h4>Registration for Sharing Sessions and Interactive Workshops (Closed)</h4>
+<h4>Thank You - Fully Booked</h4>
 <p>
-All slots for sharing sessions and interactive workshops have been fully booked. Thank you for your overwhelming support!
+All our sharing sessions, interactive workshops, and entry tickets for exhibition hall are fully booked. Thank you for your strong interest and support!
 
 
 </p></div>
-<h4>Registration for entry into the Exhibition Hall (Closed)</h4>
+<h4>Limited Walk-In Tickets on Actual Event Day</h4>
 <p>
-All the online tickets have been fully booked, and online registration is now closed. Thank you for your strong interest and support! 
+For those who did not manage to book the tickets to the exhibition, there will be walk-in tickets issued at regular intervals throughout the day. Kindly note that tickets are limited in quantity, admission is not guaranteed and subject to hall capacity.
 	
-Limited walk-in tickets will be available on the event day, but admission is subject to hall capacity and cannot be guaranteed. Please note that these limited tickets will be issued periodically throughout the event.
+Admission after 7pm does not require tickets, subject to hall capacity.
 </p>
