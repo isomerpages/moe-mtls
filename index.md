@@ -18,18 +18,16 @@ sections:
         - title: Sharing Sessions & Interactive Workshops
           description: ""
           url: /sharing-and-workshops/introduction/
+        - title: Sales Booth
+          description: ""
+          url: /exhibition/sales-booth/
       variant: center
   - infobar:
       title: Mother Tongue Languages Symposium 2024
       button: Find Out More
       url: /about-us/
   - infobar:
-      title: Register for Sharing Sessions and Interactive Workshops!
-      id: infobar
-      button: Find Out More
-      url: /registration/
-  - infobar:
-      title: Register for entry into the Exhibition Hall now!
+      title: Walk-ins to the Exhibition Hall are available!
       id: infobar
       button: Find Out More
       url: /registration/
@@ -38,4 +36,9 @@ sections:
       id: infobar
       button: Find Out More
       url: /sharing-and-workshops/introduction/
+  - infobar:
+      title: Sales Booth
+      id: infobar
+      button: Find Out More
+      url: /exhibition/sales-booth/
 ---
