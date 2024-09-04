@@ -259,4 +259,8 @@ description: ""
 }
 </style>
 
-<div class="coming-soon">Coming Soon</div>
+<div class="entry-content">
+    <div class="section-wrapper">
+        <img srcset="/images/performance-schedule-525x735.png 525w, /images/performance-schedule-700x980.png 700w, /images/performance-schedule-1050x1470.png 1050w, /images/performance-schedule-1400x1960.png 1400w, /images/performance-schedule-1750x2450.png 1750w" alt="Performance Schedule" src="/images/performance-schedule-525x735.png">
+    </div>
+</div>
