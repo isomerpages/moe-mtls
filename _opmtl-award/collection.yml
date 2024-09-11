@@ -2,8 +2,8 @@ collections:
   opmtl-award:
     output: true
     order:
+      - Outstanding Preschool Mother Tongue Language Teacher Award.md
       - Outstanding Award Winners/.keep
       - Outstanding Award Winners/陈小妹.md
       - Outstanding Award Winners/尹俪颖.md
       - Outstanding Award Winners/张玲.md
-      - Outstanding Preschool Mother Tongue Language Teacher Award.md
