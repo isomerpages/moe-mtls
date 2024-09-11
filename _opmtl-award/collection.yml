@@ -2,6 +2,7 @@ collections:
   opmtl-award:
     output: true
     order:
+      - Outstanding Award Winners/Woon Poh Leng.md
       - Outstanding Award Winners/陈小妹.md
       - Outstanding Award Winners/.keep
       - Outstanding Preschool Mother Tongue Language Teacher Award.md
