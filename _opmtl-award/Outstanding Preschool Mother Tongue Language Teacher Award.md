@@ -216,6 +216,7 @@ description: ""
   row-gap: 1rem;
 }
 .entry-content.awardees-container .section-column{
+  min-width: 10rem;
   width: 30%;
 }
 .entry-content.awardees-container .awardee-wrapper{
