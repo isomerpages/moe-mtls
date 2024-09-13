@@ -236,6 +236,10 @@ description: ""
   border: 6px solid #088394;
   border-radius: 5rem;
 }
+.entry-content.awardees-container .awardee-wrapper .awardee-pic.outstanding-pic img,
+.entry-content.awardees-container .awardee-wrapper .awardee-pic.merit-pic img{
+  border-radius: 5rem;
+}
 .entry-content.awardees-container .awardee-wrapper .awardee-profile{
   color: #484848;
   text-align: center;
@@ -379,7 +383,7 @@ description: ""
         <a href="/opmtl-award/outstanding-award-winners/chen-xiaomei/">
           <div class="awardee-wrapper">
             <div class="awardee-pic outstanding-pic">
-              <img alt="Chen Xiaomei" src="/images/OPMTLPic/Outstanding/profile-placeholder.png">
+              <img alt="Chen Xiaomei" src="/images/OPMTLPic/Outstanding/chen-xiaomei.jpg">
             </div>
             <div class="awardee-profile">
                 <div class="name-english">Ms Chen Xiaomei</div>
@@ -393,7 +397,7 @@ description: ""
         <a href="/opmtl-award/outstanding-award-winners/woon-poh-leng/">
           <div class="awardee-wrapper">
             <div class="awardee-pic outstanding-pic">
-              <img alt="Woon Poh Leng" src="/images/OPMTLPic/Outstanding/profile-placeholder.png">
+              <img alt="Woon Poh Leng" src="/images/OPMTLPic/Outstanding/woon-poh-leng.jpg">
             </div>
             <div class="awardee-profile">
                 <div class="name-english">Ms Woon Poh Leng</div>
@@ -407,7 +411,7 @@ description: ""
         <a href="/opmtl-award/outstanding-award-winners/zhang-ling/">
           <div class="awardee-wrapper">
             <div class="awardee-pic outstanding-pic">
-              <img alt="Zhang Ling" src="/images/OPMTLPic/Outstanding/profile-placeholder.png">
+              <img alt="Zhang Ling" src="/images/OPMTLPic/Outstanding/zhang-ling.jpg">
             </div>
             <div class="awardee-profile">
                 <div class="name-english">Mdm Zhang Ling</div>
@@ -423,7 +427,7 @@ description: ""
         <a href="/opmtl-award/outstanding-award-winners/zhou-yitong/">
           <div class="awardee-wrapper">
             <div class="awardee-pic outstanding-pic">
-              <img alt="Zhou Yitong" src="/images/OPMTLPic/Outstanding/profile-placeholder.png">
+              <img alt="Zhou Yitong" src="/images/OPMTLPic/Outstanding/zhou-yitong.jpg">
             </div>
             <div class="awardee-profile">
                 <div class="name-english">Mdm Zhou Yitong</div>
@@ -437,7 +441,7 @@ description: ""
         <a href="/opmtl-award/outstanding-award-winners/muhammad-fairus-bin-adam/">
           <div class="awardee-wrapper">
             <div class="awardee-pic outstanding-pic">
-              <img alt="Muhammad Fairus Bin Adam" src="/images/OPMTLPic/Outstanding/profile-placeholder.png">
+              <img alt="Muhammad Fairus Bin Adam" src="/images/OPMTLPic/Outstanding/muhammad-fairus-bin-adam.jpg">
             </div>
             <div class="awardee-profile">
                 <div class="name-english">Mr Muhammad Fairus Bin Adam</div>
@@ -450,7 +454,7 @@ description: ""
         <a href="/opmtl-award/outstanding-award-winners/norfaezan-binte-fadiar/">
           <div class="awardee-wrapper">
             <div class="awardee-pic outstanding-pic">
-              <img alt="Norfaezan Binte Fadiar" src="/images/OPMTLPic/Outstanding/profile-placeholder.png">
+              <img alt="Norfaezan Binte Fadiar" src="/images/OPMTLPic/Outstanding/norfaezan-binte-fadiar.jpg">
             </div>
             <div class="awardee-profile">
                 <div class="name-english">Ms Norfaezan Binte Fadiar</div>
@@ -465,7 +469,7 @@ description: ""
         <a href="/opmtl-award/outstanding-award-winners/sutha-kandasamy/">
           <div class="awardee-wrapper">
             <div class="awardee-pic outstanding-pic">
-              <img alt="Sutha d/o Kandasamy" src="/images/OPMTLPic/Outstanding/profile-placeholder.png">
+              <img alt="Sutha d/o Kandasamy" src="/images/OPMTLPic/Outstanding/sutha-do-kandasamy.jpg">
             </div>
             <div class="awardee-profile">
                 <div class="name-english">Ms Sutha d/o Kandasamy</div>
