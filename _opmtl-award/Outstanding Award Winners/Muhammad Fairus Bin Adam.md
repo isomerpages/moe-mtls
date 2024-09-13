@@ -382,7 +382,7 @@ third_nav_title: Outstanding Award Winners
   </div>
 
   <div class="profile-photo">
-    <img alt="Muhammad Fairus Bin Adam" src="/images/OPMTLPic/profile-banner-placeholder.png">
+    <img alt="Muhammad Fairus Bin Adam" srcset="/images/OPMTLPic/Banner/muhammad-fairus-bin-adam-576x324.png 576w, /images/OPMTLPic/Banner/muhammad-fairus-bin-adam-768x432.png 768w, /images/OPMTLPic/Banner/muhammad-fairus-bin-adam-960x540.png 960w, /images/OPMTLPic/Banner/muhammad-fairus-bin-adam-1344x756.png 1344w, /images/OPMTLPic/Banner/muhammad-fairus-bin-adam-1920x1080.png 1920w" src="/images/OPMTLPic/Banner/muhammad-fairus-bin-adam-576x324.png">
   </div>
 
   <div class="section-wrapper">
