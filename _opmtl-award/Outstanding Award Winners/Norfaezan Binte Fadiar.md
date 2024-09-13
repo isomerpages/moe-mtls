@@ -382,7 +382,7 @@ third_nav_title: Outstanding Award Winners
   </div>
 
   <div class="profile-photo">
-    <img alt="Norfaezan Binte Fadiar" src="/images/OPMTLPic/profile-banner-placeholder.png">
+    <img alt="Norfaezan Binte Fadiar" srcset="/images/OPMTLPic/Banner/norfaezan-binte-fadiar-576x324.png 576w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-768x432.png 768w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-960x540.png 960w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-1344x756.png 1344w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-1920x1080.png 1920w" src="/images/OPMTLPic/Banner/norfaezan-binte-fadiar-576x324.png">
   </div>
 
   <div class="section-wrapper">
