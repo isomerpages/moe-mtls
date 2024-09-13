@@ -488,7 +488,7 @@ description: ""
       <div class="section-column">
         <div class="awardee-wrapper">
           <div class="awardee-pic merit-pic">
-            <img alt="Liu Jing" src="/images/OPMTLPic/Merit/profile-placeholder.png">
+            <img alt="Liu Jing" src="/images/OPMTLPic/Merit/liu-jing.jpg">
           </div>
           <div class="awardee-profile">
               <div class="name-english">Ms Liu Jing</div>
@@ -500,7 +500,7 @@ description: ""
       <div class="section-column">
         <div class="awardee-wrapper">
           <div class="awardee-pic merit-pic">
-            <img alt="Fei Na" src="/images/OPMTLPic/Merit/profile-placeholder.png">
+            <img alt="Fei Na" src="/images/OPMTLPic/Merit/fei-na.jpg">
           </div>
           <div class="awardee-profile">
               <div class="name-english">Ms Fei Na</div>
@@ -512,7 +512,7 @@ description: ""
       <div class="section-column">
         <div class="awardee-wrapper">
           <div class="awardee-pic merit-pic">
-            <img alt="An Hong" src="/images/OPMTLPic/Merit/profile-placeholder.png">
+            <img alt="An Hong" src="/images/OPMTLPic/Merit/an-hong.jpg">
           </div>
           <div class="awardee-profile">
               <div class="name-english">Mdm An Hong</div>
@@ -526,7 +526,7 @@ description: ""
       <div class="section-column">
         <div class="awardee-wrapper">
           <div class="awardee-pic merit-pic">
-            <img alt="Fatinah Binte Abdul Rahman" src="/images/OPMTLPic/Merit/profile-placeholder.png">
+            <img alt="Fatinah Binte Abdul Rahman" src="/images/OPMTLPic/Merit/fatinah-binte-abdul-rahman.jpg">
           </div>
           <div class="awardee-profile">
               <div class="name-english">Ms Fatinah Binte Abdul Rahman</div>
@@ -537,7 +537,7 @@ description: ""
       <div class="section-column">
         <div class="awardee-wrapper">
           <div class="awardee-pic merit-pic">
-            <img alt="Suria Binte Yusof" src="/images/OPMTLPic/Merit/profile-placeholder.png">
+            <img alt="Suria Binte Yusof" src="/images/OPMTLPic/Merit/suria-binte-yusof.jpg">
           </div>
           <div class="awardee-profile">
               <div class="name-english">Ms Suria Binte Yusof</div>
@@ -548,7 +548,7 @@ description: ""
       <div class="section-column">
         <div class="awardee-wrapper">
           <div class="awardee-pic merit-pic">
-            <img alt="Ramachandran Anandi" src="/images/OPMTLPic/Merit/profile-placeholder.png">
+            <img alt="Ramachandran Anandi" src="/images/OPMTLPic/Merit/ramachandran-anandi.jpg">
           </div>
           <div class="awardee-profile">
               <div class="name-english">Mdm Ramachandran Anandi</div>
@@ -562,7 +562,7 @@ description: ""
       <div class="section-column">
         <div class="awardee-wrapper">
           <div class="awardee-pic merit-pic">
-            <img alt="Shyamala Ganesan" src="/images/OPMTLPic/Merit/profile-placeholder.png">
+            <img alt="Shyamala Ganesan" src="/images/OPMTLPic/Merit/shyamala-ganesan.jpg">
           </div>
           <div class="awardee-profile">
               <div class="name-english">Mrs Shyamala Ganesan</div>
