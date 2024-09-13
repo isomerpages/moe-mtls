@@ -388,7 +388,7 @@ description: ""
             <div class="awardee-profile">
                 <div class="name-english">Ms Chen Xiaomei</div>
                 <div class="name-chinese">陈小妹</div>
-                <div class="school">PCF Sparkletots preschool@Queenstown Blk 53A (CC)</div>
+                <div class="school">PCF Sparkletots Preschool@Queenstown Blk 53A (CC)</div>
             </div>
           </div>
         </a>
