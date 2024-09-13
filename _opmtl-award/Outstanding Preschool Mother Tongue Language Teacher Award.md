@@ -540,7 +540,7 @@ description: ""
             <img alt="Suria Binte Yusof" src="/images/OPMTLPic/Merit/suria-binte-yusof.jpg">
           </div>
           <div class="awardee-profile">
-              <div class="name-english">Ms Suria Binte Yusof</div>
+              <div class="name-english">Mdm Suria Binte Yusof</div>
               <div class="school">MOE Kindergarten @ Jurong West</div>
           </div>
         </div>
