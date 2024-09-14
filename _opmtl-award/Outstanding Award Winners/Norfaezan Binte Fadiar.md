@@ -1,8 +1,9 @@
 ---
-title: Outstanding Preschool Mother Tongue Language Teacher Award
-permalink: /opmtl-award/
+title: Norfaezan Binte Fadiar
+permalink: /opmtl-award/outstanding-award-winners/norfaezan-binte-fadiar/
 variant: markdown
 description: ""
+third_nav_title: Outstanding Award Winners
 ---
 <style>
 .entry-title{
@@ -216,7 +217,6 @@ description: ""
   row-gap: 1rem;
 }
 .entry-content.awardees-container .section-column{
-  min-width: 10rem;
   width: 30%;
 }
 .entry-content.awardees-container .awardee-wrapper{
@@ -235,10 +235,6 @@ description: ""
 }
 .entry-content.awardees-container .awardee-wrapper .awardee-pic.merit-pic{
   border: 6px solid #088394;
-  border-radius: 5rem;
-}
-.entry-content.awardees-container .awardee-wrapper .awardee-pic.outstanding-pic img,
-.entry-content.awardees-container .awardee-wrapper .awardee-pic.merit-pic img{
   border-radius: 5rem;
 }
 .entry-content.awardees-container .awardee-wrapper .awardee-profile{
@@ -376,202 +372,56 @@ description: ""
 }
 </style>
 
-<div class="entry-content awardees-container">
-  <div class="section-wrapper">
-    <h4>Outstanding Award Winners</h4>
-    <div class="section-row">
-      <div class="section-column">
-        <a href="/opmtl-award/outstanding-award-winners/chen-xiaomei/">
-          <div class="awardee-wrapper">
-            <div class="awardee-pic outstanding-pic">
-              <img alt="Chen Xiaomei" src="/images/OPMTLPic/Outstanding/chen-xiaomei.jpg">
-            </div>
-            <div class="awardee-profile">
-                <div class="name-english">Ms Chen Xiaomei</div>
-                <div class="name-chinese">陈小妹</div>
-                <div class="school">PCF Sparkletots Preschool@Queenstown Blk 53A (CC)</div>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="section-column">
-        <a href="/opmtl-award/outstanding-award-winners/woon-poh-leng/">
-          <div class="awardee-wrapper">
-            <div class="awardee-pic outstanding-pic">
-              <img alt="Woon Poh Leng" src="/images/OPMTLPic/Outstanding/woon-poh-leng.jpg">
-            </div>
-            <div class="awardee-profile">
-                <div class="name-english">Ms Woon Poh Leng</div>
-                <div class="name-chinese">尹俪颖</div>
-                <div class="school">Star Learners @ Pasir Ris Pte Ltd</div>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="section-column">
-        <a href="/opmtl-award/outstanding-award-winners/zhang-ling/">
-          <div class="awardee-wrapper">
-            <div class="awardee-pic outstanding-pic">
-              <img alt="Zhang Ling" src="/images/OPMTLPic/Outstanding/zhang-ling.jpg">
-            </div>
-            <div class="awardee-profile">
-                <div class="name-english">Mdm Zhang Ling</div>
-                <div class="name-chinese">张玲</div>
-                <div class="school">MOE Kindergarten @ Jurong West</div>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-    <div class="section-row">
-      <div class="section-column">
-        <a href="/opmtl-award/outstanding-award-winners/zhou-yitong/">
-          <div class="awardee-wrapper">
-            <div class="awardee-pic outstanding-pic">
-              <img alt="Zhou Yitong" src="/images/OPMTLPic/Outstanding/zhou-yitong.jpg">
-            </div>
-            <div class="awardee-profile">
-                <div class="name-english">Mdm Zhou Yitong</div>
-                <div class="name-chinese">周怡彤</div>
-                <div class="school">My First Skool @ 6 New Punggol Road</div>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="section-column">
-        <a href="/opmtl-award/outstanding-award-winners/muhammad-fairus-bin-adam/">
-          <div class="awardee-wrapper">
-            <div class="awardee-pic outstanding-pic">
-              <img alt="Muhammad Fairus Bin Adam" src="/images/OPMTLPic/Outstanding/muhammad-fairus-bin-adam.jpg">
-            </div>
-            <div class="awardee-profile">
-                <div class="name-english">Mr Muhammad Fairus Bin Adam</div>
-                <div class="school">MOE Kindergarten @ Shuqun</div>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="section-column">
-        <a href="/opmtl-award/outstanding-award-winners/norfaezan-binte-fadiar/">
-          <div class="awardee-wrapper">
-            <div class="awardee-pic outstanding-pic">
-              <img alt="Norfaezan Binte Fadiar" src="/images/OPMTLPic/Outstanding/norfaezan-binte-fadiar.jpg">
-            </div>
-            <div class="awardee-profile">
-                <div class="name-english">Ms Norfaezan Binte Fadiar</div>
-                <div class="school">PCF Sparkletots @ Blk 620 Zhenghua</div>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-    <div class="section-row">
-      <div class="section-column">
-        <a href="/opmtl-award/outstanding-award-winners/sutha-kandasamy/">
-          <div class="awardee-wrapper">
-            <div class="awardee-pic outstanding-pic">
-              <img alt="Sutha d/o Kandasamy" src="/images/OPMTLPic/Outstanding/sutha-do-kandasamy.jpg">
-            </div>
-            <div class="awardee-profile">
-                <div class="name-english">Ms Sutha d/o Kandasamy</div>
-                <div class="name-chinese">திருவாட்டி சுதா கந்தசாமி</div>
-                <div class="school">My First Skool at Blk 423 Yishun</div>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
+<div class="entry-content sharing-session-item awardee-item">
+  <div class="sharing-sessions-nav">
+    <a href="/opmtl-award/">Back</a>
+  </div>
+
+  <div class="section-wrapper award-title">
+    <h3>Outstanding Award</h3>
+  </div>
+
+  <div class="profile-photo">
+    <img alt="Norfaezan Binte Fadiar" srcset="/images/OPMTLPic/Banner/norfaezan-binte-fadiar-576x324.png 576w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-768x432.png 768w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-960x540.png 960w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-1344x756.png 1344w, /images/OPMTLPic/Banner/norfaezan-binte-fadiar-1920x1080.png 1920w" src="/images/OPMTLPic/Banner/norfaezan-binte-fadiar-576x324.png">
   </div>
 
   <div class="section-wrapper">
-    <h4>Merit Award Winners</h4>
-    <div class="section-row">
-      <div class="section-column">
-        <div class="awardee-wrapper">
-          <div class="awardee-pic merit-pic">
-            <img alt="Liu Jing" src="/images/OPMTLPic/Merit/liu-jing.jpg">
-          </div>
-          <div class="awardee-profile">
-              <div class="name-english">Ms Liu Jing</div>
-              <div class="name-chinese">刘晶</div>
-              <div class="school">My First Skool @ Block 269 Compassvale Link</div>
-          </div>
-        </div>
-      </div>
-      <div class="section-column">
-        <div class="awardee-wrapper">
-          <div class="awardee-pic merit-pic">
-            <img alt="Fei Na" src="/images/OPMTLPic/Merit/fei-na.jpg">
-          </div>
-          <div class="awardee-profile">
-              <div class="name-english">Ms Fei Na</div>
-              <div class="name-chinese">费娜</div>
-              <div class="school">PCF Sparkletots @ Nee Soon South Blk 875 (DS)</div>
-          </div>
-        </div>
-      </div>
-      <div class="section-column">
-        <div class="awardee-wrapper">
-          <div class="awardee-pic merit-pic">
-            <img alt="An Hong" src="/images/OPMTLPic/Merit/an-hong.jpg">
-          </div>
-          <div class="awardee-profile">
-              <div class="name-english">Mdm An Hong</div>
-              <div class="name-chinese">安宏</div>
-              <div class="school">MOE Kindergarten @ North Vista Primary School</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="section-row">
-      <div class="section-column">
-        <div class="awardee-wrapper">
-          <div class="awardee-pic merit-pic">
-            <img alt="Fatinah Binte Abdul Rahman" src="/images/OPMTLPic/Merit/fatinah-binte-abdul-rahman.jpg">
-          </div>
-          <div class="awardee-profile">
-              <div class="name-english">Ms Fatinah Binte Abdul Rahman</div>
-              <div class="school">PCF Sparkletots @ Blk 412 Geylang Serai (CC)</div>
-          </div>
-        </div>
-      </div>
-      <div class="section-column">
-        <div class="awardee-wrapper">
-          <div class="awardee-pic merit-pic">
-            <img alt="Suria Binte Yusof" src="/images/OPMTLPic/Merit/suria-binte-yusof.jpg">
-          </div>
-          <div class="awardee-profile">
-              <div class="name-english">Mdm Suria Binte Yusof</div>
-              <div class="school">MOE Kindergarten @ Jurong West</div>
-          </div>
-        </div>
-      </div>
-      <div class="section-column">
-        <div class="awardee-wrapper">
-          <div class="awardee-pic merit-pic">
-            <img alt="Ramachandran Anandi" src="/images/OPMTLPic/Merit/ramachandran-anandi.jpg">
-          </div>
-          <div class="awardee-profile">
-              <div class="name-english">Mdm Ramachandran Anandi</div>
-              <div class="name-chinese">திருவாட்டி இராமச்சந்திரன் ஆனந்தி</div>
-              <div class="school">MOE Kindergarten @ Northshore</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="section-row">
-      <div class="section-column">
-        <div class="awardee-wrapper">
-          <div class="awardee-pic merit-pic">
-            <img alt="Shyamala Ganesan" src="/images/OPMTLPic/Merit/shyamala-ganesan.jpg">
-          </div>
-          <div class="awardee-profile">
-              <div class="name-english">Mrs Shyamala Ganesan</div>
-              <div class="name-chinese">திருமதி சியாமளா கணேசன்</div>
-              <div class="school">PCF Sparkletots @ Punggol Shore Blk 171C</div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <h4>Petikan Guru</h4>
+    <p>
+      Nyala rasa dalam pengajaran berakar daripada keseronokan dalam membimbing kanak-kanak semasa mereka belajar dan berkembang. Saya memegang teguh kepercayaan pada potensi setiap kanak-kanak untuk berjaya. Saya berusaha untuk mewujudkan persekitaran pembelajaran yang kreatif, berpengayaan dan bermakna agar perasaan ingin tahu menjadi pendorong setiap aktiviti dan interaksi, dan merangsang rasa cinta akan pembelajaran sepanjang hayat.
+    </p>
+  </div>
+
+  <div class="section-wrapper">
+    <h4>Mengenai Pemenang</h4>
+    <p>
+      Cikgu Norfaezan Binte Fadiar ialah seorang pendidik awal kanak-kanak yang berdedikasi. Beliau komited dalam memupuk potensi kanak-kanak dengan menggunakan kaedah dan pengajaran yang inovatif serta kerjasama yang erat dengan ibu bapa. Beliau percaya sepenuhnya akan keupayaan setiap kanak-kanak untuk berjaya dan memperkayakan persekitaran pembelajaran untuk mendorong rasa ingin tahu mereka. Pendekatan pengajarannya menggunakan teknik pelbagai deria seperti Storygami untuk melibatkan pelajar, menggabungkan elemen interaktif untuk memupuk rasa kepunyaan dalam pembelajaran sambil menekankan pendidikan nilai, termasuk empati terhadap haiwan.
+    </p>
+    <p>
+      Secara profesional, Cikgu Norfaezan aktif mengikuti bengkel dan kursus dalam pendidikan Awal Kanak-kanak, berkongsi amalan terbaik dengan rakan pendidik, dan melaksanakan pengajaran yang disesuaikan untuk menyokong keperluan individu kanak-kanak. Komitmennya terhadap peningkatan berterusan memastikan beliau sentiasa berada di barisan hadapan dalam amalan pendidikan.
+    </p>
+    <p>
+      Penglibatan ibu bapa ialah asas falsafah dalam pendidikan bagi Cikgu Norfaezan. Beliau mengekalkan komunikasi terbuka mengenai kurikulum dan kemajuan pelajar, menggalakkan penglibatan ibu bapa dalam aktiviti pembelajaran. Usaha ini termasuk mencadangkan buku perpustakaan yang relevan untuk sesi 'Tunjuk dan Ujar' dan menyediakan bahan pembelajaran seperti kad fonik BINGO untuk pembelajaran di rumah. Beliau juga menganjurkan bengkel ibu bapa mengenai topik seperti pembelajaran STEM, berkongsi strategi untuk menyokong perkembangan bahasa di rumah, dan mendapatkan maklum balas mengenai kemajuan kanak-kanak di luar bilik darjah. Melalui pendekatan menyeluruh ini, Cikgu Norfaezan mewujudkan persekitaran pembelajaran holistik yang melampaui bilik darjah, memupuk pertumbuhan berterusan dalam kemahiran bahasa dan pembelajaran kanak-kanak.
+    </p>
+  </div>
+
+  <div class="section-wrapper">
+    <h4>Quote</h4>
+    <p>
+      My passion for teaching is rooted in the joy of nurturing children as they learn and grow. I firmly believe in the potential of every child to succeed. I strive to create creative, enriching and meaningful learning environments where curiosity drives every activity and interaction and fosters a lifelong love for learning.
+    </p>
+  </div>
+
+  <div class="section-wrapper">
+    <h4>Write-up</h4>
+    <p>
+      Cikgu Norfaezan Binte Fadiar is a dedicated early childhood educator committed to nurturing children's potential through innovative teaching methods and strong parent partnerships. She firmly believes in every child's capacity to learn and to succed. Her teaching approach employs multi-sensory techniques like Storygami to engage learners, incorporating interactive elements to foster ownership in learning while emphasising values education, including empathy for animals.
+    </p>
+    <p>
+      Professionally, Cikgu Norfaezan actively pursues workshops and courses in Early Childhood education, shares best practices with fellow educators, and implements tailored instruction to support the diverse student needs. Her commitment to continuous improvement ensures she stays at the forefront of educational practices.
+    </p>
+    <p>
+      Parent engagement is a cornerstone of Cikgu Norfaezan's educational philosophy. She maintains open communication about curriculum and student progress, encouraging parental involvement in learning activities. This includes suggesting relevant library books for 'Show and Tell' sessions and providing resources like BINGO phonics cards for home learning. She also organises parent workshops on topics such as STEM learning, shares strategies for supporting language development at home, and seeks feedback on children's progress outside the classroom. Through these comprehensive approaches, Cikgu Norfaezan creates a holistic learning environment that extends beyond the classroom, helping children to grow their language and learning skills.
+    </p>
   </div>
 </div>
