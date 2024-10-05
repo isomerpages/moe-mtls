@@ -324,5 +324,8 @@ In this session, Dr Dong aims to explore the use of Artificial Intelligence (AI)
 </div>
 
 <div class="section-wrapper">
+	    <h4>Session Materials</h4>
+    <p>Dr Dong Yaru's Speaker Slides.</p>
+    <p><a download="08. Enhancing Chinese Oral Skills Using Artificial Intelligence_Dr Dong Yaru_CHIJ Primary Sch.pdf" target="_blank" href="/files/CL5.pdf">Download</a> here.</p>
 </div>
 </div>
