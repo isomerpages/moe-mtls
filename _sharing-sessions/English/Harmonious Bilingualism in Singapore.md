@@ -332,5 +332,8 @@ Takeaways for Young Parents:
 </div>
 
 <div class="section-wrapper">
+	    <h4>Session Materials</h4>
+    <p>Dr He Sun's Speaker Slides.</p>
+    <p><a download="Dr Sun He - to upload.pdf" target="_blank" href="/files/EL1.pdf">Download</a> here.</p>
 </div>
 </div>
