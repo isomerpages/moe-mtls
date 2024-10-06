@@ -324,5 +324,8 @@ In this interactive workshop, children and parents will explore learning of Mala
 </div>
 
 <div class="section-wrapper">
+	    <h4>Workshop Materials</h4>
+    <p>Mr Hafeez Harun's Speaker Slides.</p>
+    <p><a download="Hafeez Glamour_MTL Symposium (Slides) 2024_FAIRED.pdf" target="_blank" href="/files/ML6.pdf">Download</a> here.</p>
 </div>
 </div>
