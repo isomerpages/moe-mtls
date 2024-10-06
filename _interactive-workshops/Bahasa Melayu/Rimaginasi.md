@@ -374,5 +374,8 @@ This interactive workshop focuses on the educational and enjoyable aspects of rh
 </div>
 
 <div class="section-wrapper">
+	    <h4>Workshop Materials</h4>
+    <p>Mr Muhammad Shahril Bin Samri's, Ms Dewi Nurhaliza Binte Mohd Hanafiah's and Ms Nurulfatin Binte Sazali's Speaker Slides.</p>
+    <p><a download="PCF Sparkletots Presch_MTL Symposium (Slides) 2024_FAIRED.pdf" target="_blank" href="/files/ML5.pdf">Download</a> here.</p>
 </div>
 </div>
