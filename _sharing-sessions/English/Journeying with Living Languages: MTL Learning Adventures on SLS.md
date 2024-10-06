@@ -345,5 +345,8 @@ Parents may have observed their children expressing interest in logging in to SL
 </div>
 
 <div class="section-wrapper">
+	    <h4>Session Materials</h4>
+    <p>Mdm Noor Azimah B Mohd Haad's, Mr Mohan Suppiah's and Mr Tan Zhen Lin's Speaker Slides.</p>
+    <p><a download="ETWG - to upload.pdf" target="_blank" href="/files/EL2.pdf">Download</a> here.</p>
 </div>
 </div>
