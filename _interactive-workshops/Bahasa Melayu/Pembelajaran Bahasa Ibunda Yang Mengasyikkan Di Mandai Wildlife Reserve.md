@@ -326,6 +326,6 @@ Mr Haniman Boniran is a senior education manager at the Mandai Wildlife Group (M
 <div class="section-wrapper">
 	    <h4>Workshop Materials</h4>
     <p>Mr Haniman Boniran's Speaker Slides.</p>
-    <p><a download="Mandai Wildlife_MTL Symposium (Slides) 2024_FAIRED.pdf" target="_blank" href="/files/ML3.pdf">Download</a> here.</p>
+    <p><a download="Mandai Wildlife_MTL Symposium (Slides) 2024_FAIRED.pdf" target="_blank" href="https://drive.google.com/uc?export=download&amp;id=12_U9xQQV4N9q00N1kCogs7zvocbeUz3z">Download</a> here.</p>
 </div>
 </div>
