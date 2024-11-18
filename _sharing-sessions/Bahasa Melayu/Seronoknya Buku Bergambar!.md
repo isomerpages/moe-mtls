@@ -324,5 +324,8 @@ Picture books play a very important role in the intellectual and socio-emotional
 </div>
 
 <div class="section-wrapper">
+	    <h4>Session Materials</h4>
+    <p>Mr Muhammed Shahril Shaik Abdullah's Speaker Slides.</p>
+    <p><a download="Shahril NLB_MTL Symposium (Slides) 2024_FAIRED.pdf" target="_blank" href="https://drive.google.com/uc?export=download&amp;id=1RQ-a-1Etp6v-xX9x3U6iwFf8cyoGnEW1">Download</a> here.</p>
 </div>
 </div>

@@ -367,5 +367,8 @@ Dramatization plays a crucial role in the learning and development of children. 
 </div>
 
 <div class="section-wrapper">
+	    <h4>Workshop Materials</h4>
+    <p>Mdm Nurmah Zainal's, Ms Nur Fa'izah Matnoor's and Mdm Nur Hafizah Mokhtar's Speaker Slides.</p>
+    <p><a download="Oasis Primary_MTL Symposium (Slides) 2024_FAIRED.pdf" target="_blank" href="https://drive.google.com/uc?export=download&amp;id=1VxIUA8TG--L3JFXrvlSMIiaJFBy05XKq">Download</a> here.</p>
 </div>
 </div>

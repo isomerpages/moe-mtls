@@ -357,5 +357,8 @@ have shown that students are using less Malay in their conversations in school a
 </div>
 
 <div class="section-wrapper">
+	    <h4>Session Materials</h4>
+    <p>Mdm Salha Binte Mohamed Hussain's and Mdm Raihanah Binte Mohamed's Speaker Slides.</p>
+    <p><a download="Primary Team_MTL Symposium (Slides) 2024_FAIRED.pdf" target="_blank" href="https://drive.google.com/uc?export=download&amp;id=1jKShD1TivuZdM64mj0Bc2vjf4bozOC-y">Download</a> here.</p>
 </div>
 </div>
