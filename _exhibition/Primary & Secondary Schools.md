@@ -387,7 +387,7 @@ description: ""
     <div class="session-description">
       <p>
         Joyful Reading: Fostering a Love for Books<br>
-        快乐阅读，和书一起飞<br>
+        快乐阅读：和书一起飞<br>
         Keseronokan Membaca: Memupuk Rasa Cinta Terhadap Buku<br>
         மகிழ்வுறு வாசிப்பு: நூல்கள் மீதான விருப்பத்தை வளர்த்தல்
       </p>
@@ -447,7 +447,7 @@ description: ""
   <div class="session-item">
     <div class="session-description">
       <p>
-        Mastering Chinese through Immersive Escape Room experiences<br>
+        Mastering Chinese through Immersive Escape Room Experiences<br>
         通过沉浸式密室逃脱体验学习华文
       </p>
     </div>
@@ -508,7 +508,7 @@ description: ""
   <div class="session-item">
     <div class="session-description">
       <p>
-        Gamified learning and immersive experience in CL lesson<br>
+        Gamified Learning and Immersive Experience in CL Lesson<br>
         华文课堂里的游戏化学习与沉浸式体验
       </p>
     </div>
@@ -521,7 +521,7 @@ description: ""
     <div class="session-description">
       <p>
         Lower Primary Mother Tongue Language Experiential Learning Programme @ Radin Mas Primary School<br>
-        拉丁马士小学的低年级体验式母语学习计划<br>
+        拉丁马士小学的低年级体验式母语学习活动<br>
         Program Pembelajaran Bahasa Ibunda Berasaskan Pengalaman di Sekolah Rendah Radin Mas untuk Murid Rendah Bawah<br>
         அனுபவித்துக் கற்போம்; மகிழ்வுறு கற்றலில் ஈடுபடுவோம்!
       </p>
@@ -542,7 +542,7 @@ description: ""
   <div class="session-item">
     <div class="session-description">
       <p>
-        Encouraging critical thinking and empowering our students to build content for oral presentations fosters self-directed learning among them<br>
+        Encouraging Critical Thinking and Empowering Our Students to Build Content for Oral Presentations Fosters Self-directed Learning Among Them<br>
         நுண்ணாய்வுச் சிந்தனையை வளர்த்தலும் வாய்மொழிப் படைப்புகளுக்குரிய தரவுகளைத் திரட்டுவதன் வாயிலாகச் சுய கற்றலை மேம்படுத்தலும்
       </p>
     </div>
