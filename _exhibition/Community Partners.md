@@ -465,16 +465,13 @@ description: ""
   <div class="session-item">
     <div class="session-description">
       <p>
-        Learning through Reading, Growing in Joy.<br>
+        Learning through Reading, Growing in Joy<br>
         在阅读中学习，在快乐中成长
       </p>
     </div>
     <div class="session-link-container">
       <div class="session-link">
-        <a data-file="A8 MTLS 2024_CP_SCCL_Final (Except Panel B).pdf" target="_blank" href="https://drive.google.com/file/d/1wdfw-UtO8bYb-epaBmMQvEYMrWRurFyH/view">View PDF (1)</a>
-      </div>
-      <div class="session-link">
-        <a data-file="A8 MTLS 2024_CP_SCCL_Final Panel B.pdf" target="_blank" href="https://drive.google.com/file/d/1bY-x_89FT18xxNR_dJg8487IXjQm0sJG/view">View PDF (2)</a>
+        <a data-file="MTLS 2024_CP_SCCL.pdf" target="_blank" href="https://drive.google.com/file/d/1epb-HLS82Qy12GggcVkjIMIbZyqiKCJr/view">View PDF</a>
       </div>
     </div>
   </div>
