@@ -387,7 +387,7 @@ description: ""
     <div class="session-description">
       <p>
         Literacy Skills - Introducing the 3P Processes to Creative Writing<br>
-        Kemahiran Literasi -s Pengenalan Proses 3P untuk Menghasilkan Karya
+        Kemahiran Literasi - Pengenalan Proses 3P untuk Menghasilkan Karya
       </p>
     </div>
     <div class="session-link">
@@ -410,7 +410,7 @@ description: ""
   <div class="session-item">
     <div class="session-description">
       <p>
-        Teaching Tamil Language through culture for deeper understanding<br>
+        Teaching Tamil Language through Culture for Deeper Understanding<br>
         ஆழ்ந்த புரிந்துணர்வை ஏற்படுத்த தமிழ்மொழியைப் பண்பாட்டின்வழிக் கற்பித்தல்
       </p>
     </div>
@@ -448,7 +448,7 @@ description: ""
   <div class="session-item">
     <div class="session-description">
       <p>
-        Joyful Learning through play<br>
+        Joyful Learning through Play<br>
         童玩、童乐、童学<br>
         同玩、同乐、同学
       </p>
