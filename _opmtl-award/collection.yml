@@ -2,6 +2,7 @@ collections:
   opmtl-award:
     output: true
     order:
+      - OPMTL 2026.md
       - Outstanding Preschool Mother Tongue Language Teacher Award.md
       - Outstanding Award Winners/.keep
       - Outstanding Award Winners/陈小妹.md
