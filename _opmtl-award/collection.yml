@@ -2,7 +2,6 @@ collections:
   opmtl-award:
     output: true
     order:
-      - OPMTL 2026.md
       - Outstanding Preschool Mother Tongue Language Teacher Award.md
       - Outstanding Award Winners/.keep
       - Outstanding Award Winners/陈小妹.md
@@ -12,3 +11,4 @@ collections:
       - Outstanding Award Winners/Muhammad Fairus Bin Adam.md
       - Outstanding Award Winners/Norfaezan Binte Fadiar.md
       - Outstanding Award Winners/திருவாட்டி சுதா கந்தசாமி.md
+      - OPMTL 2026.md
