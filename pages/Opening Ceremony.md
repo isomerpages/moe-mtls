@@ -259,4 +259,6 @@ description: ""
 }
 </style>
 
-<div class="coming-soon">The video of the Opening Ceremony will be uploaded after the event.</div>
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UbNGFVXXeQo?si=UaXHUEbgYCYxsRtF" style="position:absolute;top:0;left:0;width:100%;height:100%;" height="315" width="560"></iframe>
+</div>
