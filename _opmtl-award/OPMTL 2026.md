@@ -443,14 +443,8 @@ description: ""
             </ol>
         </li>
         <li>
-            For each nomination:
-            <ol style="list-style-type: lower-alpha;">
-                <li>
-                    Documents (b) – (e) should be saved into a folder and uploaded into a Google Drive. The folder should be labelled <em>Name of teacher_name of Centre</em> (e.g. <em>Tan Meling_abc centre</em>).
-                </li>
-                <li>
-                    The folder <u>must be shared with organiser</u>. Do remember to provide us with the access rights.
-                </li>
+            Nomination details will be sent to Centre Heads/Principals, the official nomination period is from 2 January to 28 February 2026.
+					            <ol style="list-style-type: lower-alpha;">
             </ol>
         </li>
         <li>
