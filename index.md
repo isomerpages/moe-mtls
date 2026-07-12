@@ -20,17 +20,9 @@ sections:
           url: /exhibition/introduction/
       variant: center
   - infobar:
-      title: Mother Tongue Languages Symposium 2024
-      button: Find Out More
-      url: /about-us/
-  - infobar:
-      title: Sharing Sessions & Interactive Workshops
+      title: Visit the official MTLS 2026 website!
+      subtitle: MTLS 2026 is back
       id: infobar
-      button: Find Out More
-      url: /sharing-and-workshops/introduction/
-  - infobar:
-      title: Exhibition
-      id: infobar
-      button: Find Out More
-      url: /exhibition/introduction/
+      button: CLICK HERE
+      url: https://mtls.moe.edu.sg/
 ---
