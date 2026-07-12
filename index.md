@@ -21,7 +21,7 @@ sections:
       variant: center
   - infobar:
       title: Visit the official MTLS 2026 website!
-      subtitle: MTLS 2026 is back
+      subtitle: MTLS 2026 is back!
       id: infobar
       button: CLICK HERE
       url: https://mtls.moe.edu.sg/
