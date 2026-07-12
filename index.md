@@ -8,16 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.gif
-      key_highlights:
-        - title: About Us
-          description: ""
-          url: /about-us/
-        - title: Sharing Sessions & Interactive Workshops
-          description: ""
-          url: /sharing-and-workshops/introduction/
-        - title: Exhibition
-          description: ""
-          url: /exhibition/introduction/
       variant: center
   - infobar:
       title: Visit the official MTLS 2026 website!
