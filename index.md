@@ -15,4 +15,5 @@ sections:
       id: infobar
       button: CLICK HERE
       url: https://mtls.moe.edu.sg/
+      description: Find us at https://mtls.moe.edu.sg/
 ---
